@@ -1,0 +1,55 @@
+[23:18:29.120 INFO fast_pair_enabled_provider.cc (97)] AreSubProvidersEnabled: Flag:1 Policy Pref:0 Google API Key:1 Logged in User:0 Screen State:1 Bluetooth:0
+[23:18:29.120 INFO retroactive_pairing_detector_impl.cc (72)] RetroactivePairingDetectorImpl: No logged in user to enable retroactive pairing scenario
+[23:18:29.120 VERBOSE quick_pair_mediator.cc (298)] SetFastPairState: 0
+[23:18:29.120 VERBOSE scanner_broker_impl.cc (103)] StopScanning: protocol=[Fast Pair Initial]
+[23:18:29.120 VERBOSE scanner_broker_impl.cc (179)] Stopping Fast Pair Scanning.
+[23:18:35.238 INFO fast_pair_enabled_provider.cc (97)] AreSubProvidersEnabled: Flag:1 Policy Pref:0 Google API Key:1 Logged in User:0 Screen State:1 Bluetooth:1
+[23:18:44.821 VERBOSE nearby_sharing_service_factory.cc (137)] BuildServiceInstanceForBrowserContext: creating NearbySharingService for primary profile
+[23:18:44.821 VERBOSE nearby_share_certificate_storage_impl.cc (198)] Initialize: Attempting to initialize public certificate database. Number of attempts: 1
+[23:18:44.821 INFO nearby_share_logger.cc (21)] Nearby Share logging initialized.
+[23:18:44.857 VERBOSE nearby_sharing_service_impl.cc (686)] RegisterReceiveSurface: A ReceiveSurface(BACKGROUND) has been registered
+[23:18:44.857 VERBOSE nearby_sharing_service_impl.cc (2318)] StopAdvertising: Not currently advertising, ignoring.
+[23:18:44.857 VERBOSE nearby_sharing_service_impl.cc (2181)] InvalidateAdvertisingState: Stopping advertising because both bluetooth and wifi LAN are disabled.
+[23:18:44.857 VERBOSE nearby_sharing_service_impl.cc (2452)] InvalidateFastInitiationScanning: Stopping background scanning because Nearby Sharing is disallowed by policy 
+[23:18:44.857 VERBOSE nearby_sharing_service_impl.cc (2567)] StopFastInitiationScanning: Ignoring, not background scanning.
+[23:18:44.857 VERBOSE nearby_sharing_service_impl.cc (572)] RegisterSendSurface: A SendSurface has been registered for state: BACKGROUND
+[23:18:44.857 VERBOSE nearby_sharing_service_impl.cc (2374)] StopScanning: Not currently scanning, ignoring.
+[23:18:44.857 VERBOSE nearby_sharing_service_impl.cc (2058)] InvalidateScanningState: Stopping scanning because both bluetooth and wifi LAN are disabled.
+[23:18:44.857 VERBOSE nearby_sharing_service_impl.cc (1703)] StopFastInitiationAdvertising: Not advertising FastInitiation, ignoring.
+[23:18:44.857 VERBOSE nearby_sharing_service_impl.cc (2123)] InvalidateFastInitiationAdvertising: Stopping fast init advertising because both bluetooth is disabled.
+[23:18:45.536 VERBOSE nearby_sharing_service_impl.cc (2374)] StopScanning: Not currently scanning, ignoring.
+[23:18:45.536 VERBOSE nearby_sharing_service_impl.cc (2068)] InvalidateScanningState: Stopping discovery because Nearby Sharing is disabled.
+[23:18:45.536 VERBOSE nearby_sharing_service_impl.cc (1703)] StopFastInitiationAdvertising: Not advertising FastInitiation, ignoring.
+[23:18:45.536 VERBOSE nearby_sharing_service_impl.cc (2133)] InvalidateFastInitiationAdvertising: Stopping fast init advertising because Nearby Sharing is disabled.
+[23:18:45.536 VERBOSE nearby_sharing_service_impl.cc (2318)] StopAdvertising: Not currently advertising, ignoring.
+[23:18:45.536 VERBOSE nearby_sharing_service_impl.cc (2191)] InvalidateAdvertisingState: Stopping advertising because Nearby Sharing is disabled.
+[23:18:45.536 VERBOSE nearby_sharing_service_impl.cc (2452)] InvalidateFastInitiationScanning: Stopping background scanning because Nearby Sharing is disallowed by policy 
+[23:18:45.536 VERBOSE nearby_sharing_service_impl.cc (2567)] StopFastInitiationScanning: Ignoring, not background scanning.
+[23:18:45.967 VERBOSE quick_pair_mediator.cc (596)] OnAdapterStateChanged: Adapter disabling, disabling Fast Pair.
+[23:18:45.967 VERBOSE quick_pair_mediator.cc (298)] SetFastPairState: 0
+[23:18:45.967 VERBOSE scanner_broker_impl.cc (103)] StopScanning: protocol=[Fast Pair Initial]
+[23:18:45.967 VERBOSE scanner_broker_impl.cc (179)] Stopping Fast Pair Scanning.
+[23:18:45.967 VERBOSE quick_pair_mediator.cc (312)] CancelPairing: Clearing handshakes and pairiers.
+[23:18:46.373 INFO fast_pair_enabled_provider.cc (97)] AreSubProvidersEnabled: Flag:1 Policy Pref:0 Google API Key:1 Logged in User:1 Screen State:1 Bluetooth:1
+[23:18:46.373 VERBOSE retroactive_pairing_detector_impl.cc (102)] OnLoginStatusChanged: Logged in user, instantiate retroactive pairing scenario.
+[23:18:46.960 VERBOSE nearby_share_certificate_storage_impl.cc (250)] FinishInitializationPublic certificate database initialization succeeded.
+[23:18:47.531 INFO fast_pair_enabled_provider.cc (97)] AreSubProvidersEnabled: Flag:1 Policy Pref:0 Google API Key:1 Logged in User:1 Screen State:1 Bluetooth:0
+[23:18:47.532 VERBOSE nearby_sharing_service_impl.cc (1537)] AdapterPoweredChanged: Bluetooth powered changed: 0
+[23:18:47.532 VERBOSE nearby_sharing_service_impl.cc (2374)] StopScanning: Not currently scanning, ignoring.
+[23:18:47.532 VERBOSE nearby_sharing_service_impl.cc (2058)] InvalidateScanningState: Stopping scanning because both bluetooth and wifi LAN are disabled.
+[23:18:47.532 VERBOSE nearby_sharing_service_impl.cc (1703)] StopFastInitiationAdvertising: Not advertising FastInitiation, ignoring.
+[23:18:47.532 VERBOSE nearby_sharing_service_impl.cc (2123)] InvalidateFastInitiationAdvertising: Stopping fast init advertising because both bluetooth is disabled.
+[23:18:47.532 VERBOSE nearby_sharing_service_impl.cc (2318)] StopAdvertising: Not currently advertising, ignoring.
+[23:18:47.532 VERBOSE nearby_sharing_service_impl.cc (2181)] InvalidateAdvertisingState: Stopping advertising because both bluetooth and wifi LAN are disabled.
+[23:18:47.532 VERBOSE nearby_sharing_service_impl.cc (2452)] InvalidateFastInitiationScanning: Stopping background scanning because Nearby Sharing is disallowed by policy 
+[23:18:47.532 VERBOSE nearby_sharing_service_impl.cc (2567)] StopFastInitiationScanning: Ignoring, not background scanning.
+[23:19:56.995 VERBOSE nearby_sharing_service_impl.cc (1336)] OnNetworkChanged: ConnectionType = 6
+[23:19:56.995 VERBOSE nearby_sharing_service_impl.cc (1336)] OnNetworkChanged: ConnectionType = 1
+[23:19:57.995 VERBOSE nearby_sharing_service_impl.cc (2374)] StopScanning: Not currently scanning, ignoring.
+[23:19:57.995 VERBOSE nearby_sharing_service_impl.cc (2068)] InvalidateScanningState: Stopping discovery because Nearby Sharing is disabled.
+[23:19:57.995 VERBOSE nearby_sharing_service_impl.cc (1703)] StopFastInitiationAdvertising: Not advertising FastInitiation, ignoring.
+[23:19:57.995 VERBOSE nearby_sharing_service_impl.cc (2123)] InvalidateFastInitiationAdvertising: Stopping fast init advertising because both bluetooth is disabled.
+[23:19:57.995 VERBOSE nearby_sharing_service_impl.cc (2318)] StopAdvertising: Not currently advertising, ignoring.
+[23:19:57.995 VERBOSE nearby_sharing_service_impl.cc (2181)] InvalidateAdvertisingState: Stopping advertising because both bluetooth and wifi LAN are disabled.
+[23:19:57.995 VERBOSE nearby_sharing_service_impl.cc (2452)] InvalidateFastInitiationScanning: Stopping background scanning because Nearby Sharing is disallowed by policy 
+[23:19:57.995 VERBOSE nearby_sharing_service_impl.cc (2567)] StopFastInitiationScanning: Ignoring, not background scanning.
