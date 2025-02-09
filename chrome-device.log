@@ -1,0 +1,1689 @@
+Add a query param in URL to auto-refresh the page: chrome://device-log/?refresh=<sec>
+Refresh
+Clear
+Log Level:
+
+Debug
+
+File Info
+
+Detailed Timestamps
+Clear Types
+
+Bluetooth
+
+Camera
+
+Display
+
+Extensions
+
+FIDO
+
+Firmware
+
+Geolocation
+
+HID
+
+Login
+
+Network
+
+Power
+
+Printer
+
+Serial
+
+USB
+Add a query param in the URL to select types on page load. Example: chrome://device-log/?types=Bluetooth,USB
+PowerDebug[2025/02/09 10:41:36.243217] power_manager_client.cc:988 Received power supply poll signal.
+
+NetworkDebug[2025/02/09 10:37:51.991662] managed_network_configuration_handler_impl.cc:1477 No profile for: etherneteap_1 Profile path: 0x4426f73860
+
+NetworkDebug[2025/02/09 10:37:51.985548] network_configuration_handler.cc:277 GetShillProperties: etherneteap_1
+
+NetworkUser[2025/02/09 10:37:51.985543] managed_network_configuration_handler_impl.cc:231 GetManagedProperties: etherneteap_1
+
+NetworkDebug[2025/02/09 10:37:51.985530] cros_network_config.cc:2605 Requesting EAP state for: /service/0 from: /service/1
+
+NetworkDebug[2025/02/09 10:37:51.985413] network_state_handler.cc:1362 GetEAPForEthernet: EAP Authenticaiton not completed.
+
+NetworkDebug[2025/02/09 10:37:51.964465] network_configuration_handler.cc:277 GetShillProperties: ethernet_0
+
+NetworkUser[2025/02/09 10:37:51.964452] managed_network_configuration_handler_impl.cc:231 GetManagedProperties: ethernet_0
+
+NetworkError[2025/02/09 10:37:51.945347] cros_network_config.cc:3467 RequestTrafficCounters failure: traffic counters handler not initialized while requesting traffic counters for network guid Ethernet-Ethernet
+
+NetworkEvent[2025/02/09 10:37:51.227667] network_diagnostics.cc:53 NetworkDiagnostics::BindReceiver()
+
+NetworkEvent[2025/02/09 10:37:51.227578] cros_network_config.cc:2415 CrosNetworkConfig::BindReceiver()
+
+PowerDebug[2025/02/09 10:37:35.877332] power_manager_client.cc:988 Received power supply poll signal.
+
+NetworkDebug[2025/02/09 10:37:21.936039] managed_network_configuration_handler_impl.cc:1477 No profile for: etherneteap_1 Profile path: 0x442f969060
+
+NetworkDebug[2025/02/09 10:37:21.925826] network_configuration_handler.cc:277 GetShillProperties: etherneteap_1
+
+NetworkUser[2025/02/09 10:37:21.925821] managed_network_configuration_handler_impl.cc:231 GetManagedProperties: etherneteap_1
+
+NetworkDebug[2025/02/09 10:37:21.925810] cros_network_config.cc:2605 Requesting EAP state for: /service/0 from: /service/1
+
+NetworkDebug[2025/02/09 10:37:21.925725] network_state_handler.cc:1362 GetEAPForEthernet: EAP Authenticaiton not completed.
+
+NetworkDebug[2025/02/09 10:37:21.918950] network_configuration_handler.cc:277 GetShillProperties: ethernet_0
+
+NetworkUser[2025/02/09 10:37:21.918944] managed_network_configuration_handler_impl.cc:231 GetManagedProperties: ethernet_0
+
+NetworkDebug[2025/02/09 10:37:21.916791] network_state_handler.cc:1362 GetEAPForEthernet: EAP Authenticaiton not completed.
+
+NetworkDebug[2025/02/09 10:37:21.916616] managed_network_configuration_handler_impl.cc:1477 No profile for: etherneteap_1 Profile path: 0x442f9681c0
+
+NetworkEvent[2025/02/09 10:37:21.893734] cros_network_config.cc:2415 CrosNetworkConfig::BindReceiver()
+
+NetworkDebug[2025/02/09 10:37:21.887937] network_configuration_handler.cc:277 GetShillProperties: etherneteap_1
+
+NetworkUser[2025/02/09 10:37:21.887935] managed_network_configuration_handler_impl.cc:231 GetManagedProperties: etherneteap_1
+
+NetworkDebug[2025/02/09 10:37:21.887930] cros_network_config.cc:2605 Requesting EAP state for: /service/0 from: /service/1
+
+NetworkDebug[2025/02/09 10:37:21.887888] network_state_handler.cc:1362 GetEAPForEthernet: EAP Authenticaiton not completed.
+
+NetworkDebug[2025/02/09 10:37:21.887586] network_configuration_handler.cc:277 GetShillProperties: etherneteap_1
+
+NetworkUser[2025/02/09 10:37:21.887583] managed_network_configuration_handler_impl.cc:231 GetManagedProperties: etherneteap_1
+
+NetworkDebug[2025/02/09 10:37:21.887575] cros_network_config.cc:2605 Requesting EAP state for: /service/0 from: /service/1
+
+NetworkDebug[2025/02/09 10:37:21.887524] network_state_handler.cc:1362 GetEAPForEthernet: EAP Authenticaiton not completed.
+
+NetworkDebug[2025/02/09 10:37:21.876119] network_configuration_handler.cc:277 GetShillProperties: ethernet_0
+
+NetworkUser[2025/02/09 10:37:21.876116] managed_network_configuration_handler_impl.cc:231 GetManagedProperties: ethernet_0
+
+NetworkDebug[2025/02/09 10:37:21.876011] network_configuration_handler.cc:277 GetShillProperties: ethernet_0
+
+NetworkUser[2025/02/09 10:37:21.876006] managed_network_configuration_handler_impl.cc:231 GetManagedProperties: ethernet_0
+
+NetworkDebug[2025/02/09 10:37:21.875631] network_state_handler.cc:1362 GetEAPForEthernet: EAP Authenticaiton not completed.
+
+NetworkEvent[2025/02/09 10:37:21.873702] cros_network_config.cc:2415 CrosNetworkConfig::BindReceiver()
+
+NetworkDebug[2025/02/09 10:37:21.873206] network_state_handler.cc:1362 GetEAPForEthernet: EAP Authenticaiton not completed.
+
+NetworkEvent[2025/02/09 10:37:21.872979] cros_network_config.cc:2415 CrosNetworkConfig::BindReceiver()
+
+NetworkEvent[2025/02/09 10:37:21.872740] network_diagnostics.cc:53 NetworkDiagnostics::BindReceiver()
+
+PowerDebug[2025/02/09 10:37:05.830555] power_manager_client.cc:988 Received power supply poll signal.
+
+NetworkDebug[2025/02/09 10:36:50.592493] managed_network_configuration_handler_impl.cc:1477 No profile for: etherneteap_1 Profile path: 0x4430264bc0
+
+NetworkDebug[2025/02/09 10:36:50.591030] network_configuration_handler.cc:277 GetShillProperties: etherneteap_1
+
+NetworkUser[2025/02/09 10:36:50.591027] managed_network_configuration_handler_impl.cc:231 GetManagedProperties: etherneteap_1
+
+NetworkDebug[2025/02/09 10:36:50.591020] cros_network_config.cc:2605 Requesting EAP state for: /service/0 from: /service/1
+
+NetworkDebug[2025/02/09 10:36:50.590977] network_state_handler.cc:1362 GetEAPForEthernet: EAP Authenticaiton not completed.
+
+NetworkDebug[2025/02/09 10:36:50.588523] network_configuration_handler.cc:277 GetShillProperties: ethernet_0
+
+NetworkUser[2025/02/09 10:36:50.588517] managed_network_configuration_handler_impl.cc:231 GetManagedProperties: ethernet_0
+
+NetworkDebug[2025/02/09 10:36:50.580224] managed_network_configuration_handler_impl.cc:1477 No profile for: etherneteap_1 Profile path: 0x440e4a41c0
+
+NetworkDebug[2025/02/09 10:36:50.579894] managed_network_configuration_handler_impl.cc:1477 No profile for: etherneteap_1 Profile path: 0x440e4a5270
+
+NetworkDebug[2025/02/09 10:36:50.576299] network_configuration_handler.cc:277 GetShillProperties: etherneteap_1
+
+NetworkUser[2025/02/09 10:36:50.576296] managed_network_configuration_handler_impl.cc:231 GetManagedProperties: etherneteap_1
+
+NetworkDebug[2025/02/09 10:36:50.576291] cros_network_config.cc:2605 Requesting EAP state for: /service/0 from: /service/1
+
+NetworkDebug[2025/02/09 10:36:50.576251] network_state_handler.cc:1362 GetEAPForEthernet: EAP Authenticaiton not completed.
+
+NetworkDebug[2025/02/09 10:36:50.575607] network_configuration_handler.cc:277 GetShillProperties: etherneteap_1
+
+NetworkUser[2025/02/09 10:36:50.575604] managed_network_configuration_handler_impl.cc:231 GetManagedProperties: etherneteap_1
+
+NetworkDebug[2025/02/09 10:36:50.575597] cros_network_config.cc:2605 Requesting EAP state for: /service/0 from: /service/1
+
+NetworkDebug[2025/02/09 10:36:50.575550] network_state_handler.cc:1362 GetEAPForEthernet: EAP Authenticaiton not completed.
+
+NetworkDebug[2025/02/09 10:36:50.566462] network_configuration_handler.cc:277 GetShillProperties: ethernet_0
+
+NetworkUser[2025/02/09 10:36:50.566455] managed_network_configuration_handler_impl.cc:231 GetManagedProperties: ethernet_0
+
+NetworkDebug[2025/02/09 10:36:50.564796] network_configuration_handler.cc:277 GetShillProperties: ethernet_0
+
+NetworkUser[2025/02/09 10:36:50.564791] managed_network_configuration_handler_impl.cc:231 GetManagedProperties: ethernet_0
+
+NetworkDebug[2025/02/09 10:36:50.564597] network_state_handler.cc:1362 GetEAPForEthernet: EAP Authenticaiton not completed.
+
+NetworkDebug[2025/02/09 10:36:50.537115] managed_network_configuration_handler_impl.cc:1477 No profile for: etherneteap_1 Profile path: 0x442f87f000
+
+NetworkDebug[2025/02/09 10:36:50.528209] network_configuration_handler.cc:277 GetShillProperties: etherneteap_1
+
+NetworkUser[2025/02/09 10:36:50.528206] managed_network_configuration_handler_impl.cc:231 GetManagedProperties: etherneteap_1
+
+NetworkDebug[2025/02/09 10:36:50.528199] cros_network_config.cc:2605 Requesting EAP state for: /service/0 from: /service/1
+
+NetworkDebug[2025/02/09 10:36:50.528147] network_state_handler.cc:1362 GetEAPForEthernet: EAP Authenticaiton not completed.
+
+NetworkDebug[2025/02/09 10:36:50.524451] network_configuration_handler.cc:277 GetShillProperties: ethernet_0
+
+NetworkUser[2025/02/09 10:36:50.524444] managed_network_configuration_handler_impl.cc:231 GetManagedProperties: ethernet_0
+
+NetworkDebug[2025/02/09 10:36:50.411907] managed_network_configuration_handler_impl.cc:1477 No profile for: etherneteap_1 Profile path: 0x440e4a3140
+
+NetworkDebug[2025/02/09 10:36:50.407240] network_configuration_handler.cc:277 GetShillProperties: etherneteap_1
+
+NetworkUser[2025/02/09 10:36:50.407237] managed_network_configuration_handler_impl.cc:231 GetManagedProperties: etherneteap_1
+
+NetworkDebug[2025/02/09 10:36:50.407226] cros_network_config.cc:2605 Requesting EAP state for: /service/0 from: /service/1
+
+NetworkDebug[2025/02/09 10:36:50.406279] network_state_handler.cc:1362 GetEAPForEthernet: EAP Authenticaiton not completed.
+
+NetworkError[2025/02/09 10:36:50.390735] cros_network_config.cc:3467 RequestTrafficCounters failure: traffic counters handler not initialized while requesting traffic counters for network guid Ethernet-Ethernet
+
+NetworkDebug[2025/02/09 10:36:50.389203] network_configuration_handler.cc:277 GetShillProperties: ethernet_0
+
+NetworkUser[2025/02/09 10:36:50.388306] managed_network_configuration_handler_impl.cc:231 GetManagedProperties: ethernet_0
+
+NetworkDebug[2025/02/09 10:36:50.215090] network_state_handler.cc:1362 GetEAPForEthernet: EAP Authenticaiton not completed.
+
+NetworkEvent[2025/02/09 10:36:49.763374] esim_manager.cc:140 ESimManager::BindReceiver()
+
+NetworkDebug[2025/02/09 10:36:49.763286] network_state_handler.cc:1362 GetEAPForEthernet: EAP Authenticaiton not completed.
+
+BluetoothEvent[2025/02/09 10:36:49.735666] device_cache.cc:26 GetPairedDevices() called when Bluetooth is not enabled nor enabling, returning an empty list.
+
+BluetoothDebug[2025/02/09 10:36:49.209061] in_process_instance.cc:95 Binding to CrosBluetoothConfig
+
+NetworkDebug[2025/02/09 10:36:49.175510] network_state_handler.cc:1362 GetEAPForEthernet: EAP Authenticaiton not completed.
+
+NetworkDebug[2025/02/09 10:36:49.160873] in_process_instance.cc:32 Binding to CrosHotspotConfig
+
+NetworkEvent[2025/02/09 10:36:49.154475] cros_network_config.cc:2415 CrosNetworkConfig::BindReceiver()
+
+PowerDebug[2025/02/09 10:36:35.783279] power_manager_client.cc:988 Received power supply poll signal.
+
+NetworkDebug[2025/02/09 10:35:34.413410] network_state_handler.cc:1362 GetEAPForEthernet: EAP Authenticaiton not completed.
+
+NetworkEvent[2025/02/09 10:35:34.353289] cros_network_config.cc:2415 CrosNetworkConfig::BindReceiver()
+
+NetworkDebug[2025/02/09 10:35:33.518411] network_state_handler.cc:1362 GetEAPForEthernet: EAP Authenticaiton not completed.
+
+NetworkEvent[2025/02/09 10:35:33.459249] cros_network_config.cc:2415 CrosNetworkConfig::BindReceiver()
+
+NetworkDebug[2025/02/09 10:35:32.606397] network_state_handler.cc:1362 GetEAPForEthernet: EAP Authenticaiton not completed.
+
+NetworkEvent[2025/02/09 10:35:32.510775] cros_network_config.cc:2415 CrosNetworkConfig::BindReceiver()
+
+PowerDebug[2025/02/09 10:35:05.637623] power_manager_client.cc:988 Received power supply poll signal.
+
+PowerUser[2025/02/09 10:25:16.892757] power_manager_client.cc:518 SetPolicy
+
+PowerDebug[2025/02/09 10:25:04.377727] power_manager_client.cc:988 Received power supply poll signal.
+
+PowerUser[2025/02/09 10:22:39.223598] power_manager_client.cc:407 RequestStatusUpdate
+
+PowerDebug[2025/02/09 10:22:34.130814] power_manager_client.cc:988 Received power supply poll signal.
+
+BluetoothError[2025/02/09 10:22:10.627408] bluetooth_adapter_floss.cc:1538 GetLowEnergyScanSessionHardwareOffloadingStatus called when adapter is not powered.
+
+PowerDebug[2025/02/09 10:22:04.086042] power_manager_client.cc:988 Received power supply poll signal.
+
+HIDUser[2025/02/09 10:10:34.778997] hid_service.cc:140 HID device detected: vendorId=2362, productId=9488, name='PixArt USB Optical Mouse', serial='', deviceIds=['/sys/devices/platform/soc/11280000.usb/usb3/3-1/3-1.1/3-1.1.2/3-1.1.2.1/3-1.1.2.1:1.0/0003:093A:2510.0001/hidraw/hidraw0'], reportDescriptor='BQEJAqEBCQGhAAUJGQEpAxUAJQF1AZUDgQJ1BZUBgQEFAQkwCTEJOBWBJX91CJUDgQbAwA=='
+
+PowerDebug[2025/02/09 10:10:32.944945] power_manager_client.cc:988 Received power supply poll signal.
+
+NetworkDebug[2025/02/09 10:09:21.219286] managed_network_configuration_handler_impl.cc:1477 No profile for: etherneteap_1 Profile path: 0x4426d7f890
+
+NetworkDebug[2025/02/09 10:09:21.217565] network_configuration_handler.cc:277 GetShillProperties: etherneteap_1
+
+NetworkUser[2025/02/09 10:09:21.217560] managed_network_configuration_handler_impl.cc:231 GetManagedProperties: etherneteap_1
+
+NetworkDebug[2025/02/09 10:09:21.217549] cros_network_config.cc:2605 Requesting EAP state for: /service/0 from: /service/1
+
+NetworkDebug[2025/02/09 10:09:21.217459] network_state_handler.cc:1362 GetEAPForEthernet: EAP Authenticaiton not completed.
+
+NetworkDebug[2025/02/09 10:09:21.215004] managed_network_configuration_handler_impl.cc:1477 No profile for: etherneteap_1 Profile path: 0x4426d7cd10
+
+NetworkDebug[2025/02/09 10:09:21.214784] network_configuration_handler.cc:277 GetShillProperties: ethernet_0
+
+NetworkUser[2025/02/09 10:09:21.214775] managed_network_configuration_handler_impl.cc:231 GetManagedProperties: ethernet_0
+
+NetworkDebug[2025/02/09 10:09:21.210706] managed_network_configuration_handler_impl.cc:1477 No profile for: etherneteap_1 Profile path: 0x4426d7f800
+
+NetworkDebug[2025/02/09 10:09:21.210089] network_configuration_handler.cc:277 GetShillProperties: etherneteap_1
+
+NetworkUser[2025/02/09 10:09:21.210087] managed_network_configuration_handler_impl.cc:231 GetManagedProperties: etherneteap_1
+
+NetworkDebug[2025/02/09 10:09:21.210083] cros_network_config.cc:2605 Requesting EAP state for: /service/0 from: /service/1
+
+NetworkDebug[2025/02/09 10:09:21.210044] network_state_handler.cc:1362 GetEAPForEthernet: EAP Authenticaiton not completed.
+
+NetworkDebug[2025/02/09 10:09:21.208199] network_configuration_handler.cc:277 GetShillProperties: etherneteap_1
+
+NetworkUser[2025/02/09 10:09:21.208197] managed_network_configuration_handler_impl.cc:231 GetManagedProperties: etherneteap_1
+
+NetworkDebug[2025/02/09 10:09:21.208192] cros_network_config.cc:2605 Requesting EAP state for: /service/0 from: /service/1
+
+NetworkDebug[2025/02/09 10:09:21.208148] network_state_handler.cc:1362 GetEAPForEthernet: EAP Authenticaiton not completed.
+
+NetworkDebug[2025/02/09 10:09:21.207758] network_configuration_handler.cc:277 GetShillProperties: ethernet_0
+
+NetworkUser[2025/02/09 10:09:21.207740] managed_network_configuration_handler_impl.cc:231 GetManagedProperties: ethernet_0
+
+NetworkDebug[2025/02/09 10:09:21.205265] network_configuration_handler.cc:277 GetShillProperties: ethernet_0
+
+NetworkUser[2025/02/09 10:09:21.205260] managed_network_configuration_handler_impl.cc:231 GetManagedProperties: ethernet_0
+
+NetworkDebug[2025/02/09 10:09:21.204897] network_state_handler.cc:1362 GetEAPForEthernet: EAP Authenticaiton not completed.
+
+NetworkDebug[2025/02/09 10:09:21.073816] managed_network_configuration_handler_impl.cc:1477 No profile for: etherneteap_1 Profile path: 0x44306bc050
+
+NetworkDebug[2025/02/09 10:09:21.072650] managed_network_configuration_handler_impl.cc:1477 No profile for: etherneteap_1 Profile path: 0x44306c0b50
+
+NetworkDebug[2025/02/09 10:09:21.071129] managed_network_configuration_handler_impl.cc:1477 No profile for: etherneteap_1 Profile path: 0x44306bb1b0
+
+NetworkDebug[2025/02/09 10:09:21.069090] network_configuration_handler.cc:277 GetShillProperties: etherneteap_1
+
+NetworkUser[2025/02/09 10:09:21.069088] managed_network_configuration_handler_impl.cc:231 GetManagedProperties: etherneteap_1
+
+NetworkDebug[2025/02/09 10:09:21.069084] cros_network_config.cc:2605 Requesting EAP state for: /service/0 from: /service/1
+
+NetworkDebug[2025/02/09 10:09:21.069056] network_state_handler.cc:1362 GetEAPForEthernet: EAP Authenticaiton not completed.
+
+NetworkDebug[2025/02/09 10:09:21.068833] network_configuration_handler.cc:277 GetShillProperties: etherneteap_1
+
+NetworkUser[2025/02/09 10:09:21.068831] managed_network_configuration_handler_impl.cc:231 GetManagedProperties: etherneteap_1
+
+NetworkDebug[2025/02/09 10:09:21.068827] cros_network_config.cc:2605 Requesting EAP state for: /service/0 from: /service/1
+
+NetworkDebug[2025/02/09 10:09:21.068792] network_state_handler.cc:1362 GetEAPForEthernet: EAP Authenticaiton not completed.
+
+NetworkDebug[2025/02/09 10:09:21.068473] network_configuration_handler.cc:277 GetShillProperties: etherneteap_1
+
+NetworkUser[2025/02/09 10:09:21.068470] managed_network_configuration_handler_impl.cc:231 GetManagedProperties: etherneteap_1
+
+NetworkDebug[2025/02/09 10:09:21.068463] cros_network_config.cc:2605 Requesting EAP state for: /service/0 from: /service/1
+
+NetworkDebug[2025/02/09 10:09:21.068402] network_state_handler.cc:1362 GetEAPForEthernet: EAP Authenticaiton not completed.
+
+NetworkDebug[2025/02/09 10:09:21.059141] network_configuration_handler.cc:277 GetShillProperties: ethernet_0
+
+NetworkUser[2025/02/09 10:09:21.059133] managed_network_configuration_handler_impl.cc:231 GetManagedProperties: ethernet_0
+
+NetworkDebug[2025/02/09 10:09:21.054008] network_configuration_handler.cc:277 GetShillProperties: ethernet_0
+
+NetworkUser[2025/02/09 10:09:21.054001] managed_network_configuration_handler_impl.cc:231 GetManagedProperties: ethernet_0
+
+NetworkError[2025/02/09 10:09:21.053528] cros_network_config.cc:3467 RequestTrafficCounters failure: traffic counters handler not initialized while requesting traffic counters for network guid Ethernet-Ethernet
+
+NetworkDebug[2025/02/09 10:09:21.053042] network_configuration_handler.cc:277 GetShillProperties: ethernet_0
+
+NetworkUser[2025/02/09 10:09:21.053034] managed_network_configuration_handler_impl.cc:231 GetManagedProperties: ethernet_0
+
+NetworkDebug[2025/02/09 10:09:21.029710] network_state_handler.cc:1362 GetEAPForEthernet: EAP Authenticaiton not completed.
+
+NetworkEvent[2025/02/09 10:09:20.997084] esim_manager.cc:140 ESimManager::BindReceiver()
+
+NetworkEvent[2025/02/09 10:09:20.997069] esim_manager.cc:40 EUICC list updated; paths: /org/chromium/Hermes/euicc/0]
+
+NetworkDebug[2025/02/09 10:09:20.997043] esim_manager.cc:196 Creating EUICC: /org/chromium/Hermes/euicc/0
+
+NetworkDebug[2025/02/09 10:09:20.997036] esim_manager.cc:155 Updating available Euiccs
+
+NetworkDebug[2025/02/09 10:09:20.996769] network_state_handler.cc:1362 GetEAPForEthernet: EAP Authenticaiton not completed.
+
+PowerDebug[2025/02/09 10:09:02.766335] power_manager_client.cc:988 Received power supply poll signal.
+
+NetworkDebug[2025/02/09 10:08:48.545114] network_state_handler.cc:1362 GetEAPForEthernet: EAP Authenticaiton not completed.
+
+BluetoothEvent[2025/02/09 10:08:48.412541] device_cache.cc:26 GetPairedDevices() called when Bluetooth is not enabled nor enabling, returning an empty list.
+
+BluetoothDebug[2025/02/09 10:08:47.904876] in_process_instance.cc:95 Binding to CrosBluetoothConfig
+
+NetworkDebug[2025/02/09 10:08:47.878810] network_state_handler.cc:1362 GetEAPForEthernet: EAP Authenticaiton not completed.
+
+NetworkDebug[2025/02/09 10:08:47.862751] in_process_instance.cc:32 Binding to CrosHotspotConfig
+
+NetworkEvent[2025/02/09 10:08:47.859828] cros_network_config.cc:2415 CrosNetworkConfig::BindReceiver()
+
+NetworkEvent[2025/02/09 10:08:38.087640] client_cert_resolver.cc:599 ClientCertResolver: Certificates Loaded.
+
+NetworkEvent[2025/02/09 10:08:38.087620] network_connection_handler_impl.cc:289 Certificates Loaded
+
+PowerDebug[2025/02/09 10:08:32.717357] power_manager_client.cc:988 Received power supply poll signal.
+
+PowerUser[2025/02/09 09:59:26.889929] power_manager_client.cc:1462 Got InputEvent signal: type=1 timestamp=9500968973
+
+PowerUser[2025/02/09 09:59:26.885965] power_manager_client.cc:1462 Got InputEvent signal: type=0 timestamp=9500935950
+
+PowerUser[2025/02/09 09:59:26.018717] power_manager_client.cc:1462 Got InputEvent signal: type=1 timestamp=9500209295
+
+PowerUser[2025/02/09 09:59:25.901804] power_manager_client.cc:1462 Got InputEvent signal: type=0 timestamp=9500090950
+
+PowerDebug[2025/02/09 09:59:01.660110] power_manager_client.cc:988 Received power supply poll signal.
+
+BluetoothError[2025/02/09 09:52:10.614685] bluetooth_adapter_floss.cc:1538 GetLowEnergyScanSessionHardwareOffloadingStatus called when adapter is not powered.
+
+PowerDebug[2025/02/09 09:52:00.850547] power_manager_client.cc:988 Received power supply poll signal.
+
+PowerDebug[2025/02/09 09:43:14.427652] power_manager_client.cc:849 Screen brightness changed to 100: cause 1
+
+DisplayEvent[2025/02/09 09:43:14.386974] display_manager.cc:1345 Display[3850489720471552] bounds=[0,0 1517x852], workarea=[0,0 1469x852], scale=0.900461, rotation=0, panel_rotation=0 internal detected
+
+DisplayEvent[2025/02/09 09:43:14.386924] display_manager.cc:1339 Displays update applied. Unified desktop allowed: 0, Multi display mode: extended, count:1
+
+DisplayEvent[2025/02/09 09:43:14.386288] display_manager.cc:976 ManagedDisplayInfo[3850489720471552] port_display_id=3850489720471552, edid_display_id=3978993118, native bounds=0,0 1366x768, size=1366x768, device-scale=1, display-zoom=1, overscan=x:0,0 y:0,0, rotation=0, touchscreen=no, panel_corners_radii=0.000000,0.000000,0.000000,0.000000, panel_orientation=Normal, detected=true, color_space={primaries:BT709, transfer:SRGB, matrix:RGB, range:FULL}
+
+DisplayEvent[2025/02/09 09:43:14.386247] display_manager.cc:969 Native displays updated. Unified desktop allowed: 0, Multi display mode: extended, count:1 currently active:1
+
+PowerUser[2025/02/09 09:43:14.386086] power_manager_client.cc:532 SetIsProjecting
+
+PowerDebug[2025/02/09 09:42:59.914116] power_manager_client.cc:988 Received power supply poll signal.
+
+DisplayEvent[2025/02/09 09:42:29.310277] display_manager.cc:969 Native displays updated. Unified desktop allowed: 0, Multi display mode: extended, count:0 currently active:1
+
+PowerUser[2025/02/09 09:42:29.300675] power_manager_client.cc:532 SetIsProjecting
+
+PowerDebug[2025/02/09 09:42:28.982059] power_manager_client.cc:849 Screen brightness changed to 0: cause 2
+
+PowerDebug[2025/02/09 09:41:59.828570] power_manager_client.cc:988 Received power supply poll signal.
+
+PowerDebug[2025/02/09 09:41:58.983007] power_manager_client.cc:849 Screen brightness changed to 34.9173: cause 2
+
+PowerDebug[2025/02/09 09:41:29.777348] power_manager_client.cc:988 Received power supply poll signal.
+
+BluetoothError[2025/02/09 09:22:10.606494] bluetooth_adapter_floss.cc:1538 GetLowEnergyScanSessionHardwareOffloadingStatus called when adapter is not powered.
+
+PowerDebug[2025/02/09 09:21:57.703578] power_manager_client.cc:988 Received power supply poll signal.
+
+PowerUser[2025/02/09 09:12:24.585951] power_manager_client.cc:518 SetPolicy
+
+PowerDebug[2025/02/09 09:11:56.623700] power_manager_client.cc:988 Received power supply poll signal.
+
+PowerUser[2025/02/09 09:11:55.016257] power_manager_client.cc:518 SetPolicy
+
+PowerDebug[2025/02/09 09:11:26.578083] power_manager_client.cc:988 Received power supply poll signal.
+
+PowerUser[2025/02/09 09:05:15.900503] power_manager_client.cc:518 SetPolicy
+
+PowerDebug[2025/02/09 09:04:55.886907] power_manager_client.cc:988 Received power supply poll signal.
+
+PowerUser[2025/02/09 09:04:54.371436] power_manager_client.cc:518 SetPolicy
+
+PowerDebug[2025/02/09 09:04:25.833550] power_manager_client.cc:988 Received power supply poll signal.
+
+PowerUser[2025/02/09 09:03:44.374937] power_manager_client.cc:518 SetPolicy
+
+PowerDebug[2025/02/09 09:03:25.723895] power_manager_client.cc:988 Received power supply poll signal.
+
+PowerUser[2025/02/09 09:03:24.152728] power_manager_client.cc:518 SetPolicy
+
+PowerDebug[2025/02/09 09:02:55.672261] power_manager_client.cc:988 Received power supply poll signal.
+
+PowerUser[2025/02/09 09:02:36.640347] power_manager_client.cc:518 SetPolicy
+
+PowerDebug[2025/02/09 09:02:25.613489] power_manager_client.cc:988 Received power supply poll signal.
+
+BluetoothError[2025/02/09 08:52:10.594631] bluetooth_adapter_floss.cc:1538 GetLowEnergyScanSessionHardwareOffloadingStatus called when adapter is not powered.
+
+PowerDebug[2025/02/09 08:51:54.780992] power_manager_client.cc:988 Received power supply poll signal.
+
+BluetoothError[2025/02/09 08:22:10.554155] bluetooth_adapter_floss.cc:1538 GetLowEnergyScanSessionHardwareOffloadingStatus called when adapter is not powered.
+
+PowerDebug[2025/02/09 08:21:50.566020] power_manager_client.cc:988 Received power supply poll signal.
+
+BluetoothError[2025/02/09 07:52:10.276285] bluetooth_adapter_floss.cc:1538 GetLowEnergyScanSessionHardwareOffloadingStatus called when adapter is not powered.
+
+PowerDebug[2025/02/09 07:51:47.084377] power_manager_client.cc:988 Received power supply poll signal.
+
+PowerUser[2025/02/09 07:22:38.325878] power_manager_client.cc:407 RequestStatusUpdate
+
+NetworkEvent[2025/02/09 07:22:38.221019] network_diagnostics.cc:53 NetworkDiagnostics::BindReceiver()
+
+PowerDebug[2025/02/09 07:22:14.090885] power_manager_client.cc:988 Received power supply poll signal.
+
+BluetoothError[2025/02/09 07:22:10.268046] bluetooth_adapter_floss.cc:1538 GetLowEnergyScanSessionHardwareOffloadingStatus called when adapter is not powered.
+
+NetworkDebug[2025/02/09 07:21:57.910445] network_state_handler.cc:1362 GetEAPForEthernet: EAP Authenticaiton not completed.
+
+BluetoothEvent[2025/02/09 07:21:57.910285] device_cache.cc:26 GetPairedDevices() called when Bluetooth is not enabled nor enabling, returning an empty list.
+
+NetworkDebug[2025/02/09 07:21:57.889784] in_process_instance.cc:32 Binding to CrosHotspotConfig
+
+BluetoothDebug[2025/02/09 07:21:57.889033] in_process_instance.cc:35 Binding to HidPreservingBluetoothStateController
+
+BluetoothDebug[2025/02/09 07:21:57.888955] in_process_instance.cc:95 Binding to CrosBluetoothConfig
+
+PowerDebug[2025/02/09 07:21:43.989887] power_manager_client.cc:988 Received power supply poll signal.
+
+NetworkDebug[2025/02/09 07:21:38.546381] network_state_handler.cc:1362 GetEAPForEthernet: EAP Authenticaiton not completed.
+
+BluetoothEvent[2025/02/09 07:21:38.546237] device_cache.cc:26 GetPairedDevices() called when Bluetooth is not enabled nor enabling, returning an empty list.
+
+NetworkDebug[2025/02/09 07:21:38.525513] in_process_instance.cc:32 Binding to CrosHotspotConfig
+
+BluetoothDebug[2025/02/09 07:21:38.524792] in_process_instance.cc:35 Binding to HidPreservingBluetoothStateController
+
+BluetoothDebug[2025/02/09 07:21:38.524709] in_process_instance.cc:95 Binding to CrosBluetoothConfig
+
+FirmwareEvent[2025/02/09 07:21:33.913913] firmware_update_manager.cc:845 OnDeviceListResponse(). Devices: 0
+
+FirmwareUser[2025/02/09 07:21:33.913908] fwupd_client.cc:541 fwupd: Devices found: 0
+
+FirmwareDebug[2025/02/09 07:21:33.913897] fwupd_client.cc:519 Ignoring internal device: Touchpad
+
+FirmwareDebug[2025/02/09 07:21:33.913872] fwupd_client.cc:519 Ignoring internal device: N116BGE-EA2
+
+FirmwareDebug[2025/02/09 07:21:33.913850] fwupd_client.cc:519 Ignoring internal device: A3A551
+
+FirmwareUser[2025/02/09 07:21:33.910566] fwupd_client.cc:238 fwupd: RequestDevices called
+
+FirmwareUser[2025/02/09 07:21:33.910563] firmware_update_manager.cc:637 RequestDevices
+
+FirmwareUser[2025/02/09 07:21:33.910560] firmware_update_manager.cc:630 RequestAllUpdates: Skipping refresh remote for LVFS
+
+FirmwareDebug[2025/02/09 07:21:33.910503] firmware_update_manager.cc:428 Local firmware file age < 24 hours, age: 19
+
+FirmwareDebug[2025/02/09 07:21:33.910409] firmware_update_manager.cc:405 Connection online: 1, Connection metered: 0, Source: 2, Refresh Remote connection okay: 1
+
+FirmwareDebug[2025/02/09 07:21:33.910384] firmware_update_manager.cc:401 RefreshRemoteAllowed()
+
+FirmwareUser[2025/02/09 07:21:33.910299] firmware_update_manager.cc:607 RequestAllUpdates: 2
+
+NetworkDebug[2025/02/09 07:21:30.939097] network_state_handler.cc:1362 GetEAPForEthernet: EAP Authenticaiton not completed.
+
+BluetoothDebug[2025/02/09 07:21:30.938848] in_process_instance.cc:95 Binding to CrosBluetoothConfig
+
+BluetoothEvent[2025/02/09 07:21:30.938798] device_cache.cc:26 GetPairedDevices() called when Bluetooth is not enabled nor enabling, returning an empty list.
+
+NetworkDebug[2025/02/09 07:21:30.914133] in_process_instance.cc:32 Binding to CrosHotspotConfig
+
+BluetoothDebug[2025/02/09 07:21:30.912825] in_process_instance.cc:35 Binding to HidPreservingBluetoothStateController
+
+BluetoothDebug[2025/02/09 07:21:30.912682] in_process_instance.cc:95 Binding to CrosBluetoothConfig
+
+NetworkDebug[2025/02/09 07:21:30.270300] network_state_handler.cc:1362 GetEAPForEthernet: EAP Authenticaiton not completed.
+
+FirmwareEvent[2025/02/09 07:21:28.915456] firmware_update_manager.cc:845 OnDeviceListResponse(). Devices: 0
+
+FirmwareUser[2025/02/09 07:21:28.915451] fwupd_client.cc:541 fwupd: Devices found: 0
+
+FirmwareDebug[2025/02/09 07:21:28.915439] fwupd_client.cc:519 Ignoring internal device: Touchpad
+
+FirmwareDebug[2025/02/09 07:21:28.915411] fwupd_client.cc:519 Ignoring internal device: N116BGE-EA2
+
+FirmwareDebug[2025/02/09 07:21:28.915387] fwupd_client.cc:519 Ignoring internal device: A3A551
+
+FirmwareUser[2025/02/09 07:21:28.909679] fwupd_client.cc:238 fwupd: RequestDevices called
+
+FirmwareUser[2025/02/09 07:21:28.909677] firmware_update_manager.cc:637 RequestDevices
+
+FirmwareUser[2025/02/09 07:21:28.909672] firmware_update_manager.cc:630 RequestAllUpdates: Skipping refresh remote for LVFS
+
+FirmwareDebug[2025/02/09 07:21:28.909540] firmware_update_manager.cc:428 Local firmware file age < 24 hours, age: 19
+
+FirmwareDebug[2025/02/09 07:21:28.909436] firmware_update_manager.cc:405 Connection online: 1, Connection metered: 0, Source: 2, Refresh Remote connection okay: 1
+
+FirmwareDebug[2025/02/09 07:21:28.909411] firmware_update_manager.cc:401 RefreshRemoteAllowed()
+
+FirmwareUser[2025/02/09 07:21:28.909342] firmware_update_manager.cc:607 RequestAllUpdates: 2
+
+FirmwareEvent[2025/02/09 07:21:28.791332] firmware_update_manager.cc:845 OnDeviceListResponse(). Devices: 0
+
+FirmwareUser[2025/02/09 07:21:28.791327] fwupd_client.cc:541 fwupd: Devices found: 0
+
+FirmwareDebug[2025/02/09 07:21:28.791317] fwupd_client.cc:519 Ignoring internal device: Touchpad
+
+FirmwareDebug[2025/02/09 07:21:28.791295] fwupd_client.cc:519 Ignoring internal device: N116BGE-EA2
+
+FirmwareDebug[2025/02/09 07:21:28.791274] fwupd_client.cc:519 Ignoring internal device: A3A551
+
+NetworkDebug[2025/02/09 07:21:28.785019] network_state_handler.cc:1362 GetEAPForEthernet: EAP Authenticaiton not completed.
+
+FirmwareDebug[2025/02/09 07:21:28.784697] firmware_update_manager.cc:596 One instance of RequestAllUpdates already is progress; skipped
+
+FirmwareDebug[2025/02/09 07:21:28.784694] firmware_update_manager.cc:552 DefaultNetworkChanged(): Pending refresh: 1, Default Network: 1
+
+NetworkDebug[2025/02/09 07:21:28.784657] network_state_handler.cc:1362 GetEAPForEthernet: EAP Authenticaiton not completed.
+
+NetworkEvent[2025/02/09 07:21:28.784448] network_state_handler.cc:2234 NOTIFY: DefaultNetworkChanged: ethernet_0: UpdateIPConfig
+
+NetworkDebug[2025/02/09 07:21:28.784290] network_state_handler.cc:1362 GetEAPForEthernet: EAP Authenticaiton not completed.
+
+NetworkEvent[2025/02/09 07:21:28.784221] network_state_handler.cc:2376 NOTIFY: NetworkPropertiesUpdated: ethernet_0
+
+NetworkEvent[2025/02/09 07:21:28.784205] shill_property_handler.cc:719 IP Config properties received: ethernet_0
+
+FirmwareUser[2025/02/09 07:21:28.774303] fwupd_client.cc:238 fwupd: RequestDevices called
+
+FirmwareUser[2025/02/09 07:21:28.774302] firmware_update_manager.cc:637 RequestDevices
+
+FirmwareUser[2025/02/09 07:21:28.774296] firmware_update_manager.cc:630 RequestAllUpdates: Skipping refresh remote for LVFS
+
+FirmwareDebug[2025/02/09 07:21:28.770872] firmware_update_manager.cc:428 Local firmware file age < 24 hours, age: 19
+
+FirmwareDebug[2025/02/09 07:21:28.770716] firmware_update_manager.cc:405 Connection online: 1, Connection metered: 0, Source: 4, Refresh Remote connection okay: 1
+
+FirmwareDebug[2025/02/09 07:21:28.770697] firmware_update_manager.cc:401 RefreshRemoteAllowed()
+
+NetworkDebug[2025/02/09 07:21:28.770273] network_state_handler.cc:1362 GetEAPForEthernet: EAP Authenticaiton not completed.
+
+NetworkEvent[2025/02/09 07:21:28.767715] network_state_handler.cc:2081 NOTIFY: NetworkListChanged. Size: 2
+
+NetworkDebug[2025/02/09 07:21:28.767524] network_state_handler.cc:1362 GetEAPForEthernet: EAP Authenticaiton not completed.
+
+NetworkEvent[2025/02/09 07:21:28.767474] network_state_handler.cc:2376 NOTIFY: NetworkPropertiesUpdated: ethernet_0
+
+FirmwareUser[2025/02/09 07:21:28.767441] firmware_update_manager.cc:607 RequestAllUpdates: 4
+
+FirmwareDebug[2025/02/09 07:21:28.767436] firmware_update_manager.cc:552 DefaultNetworkChanged(): Pending refresh: 1, Default Network: 1
+
+NetworkDebug[2025/02/09 07:21:28.767389] network_state_handler.cc:1362 GetEAPForEthernet: EAP Authenticaiton not completed.
+
+NetworkEvent[2025/02/09 07:21:28.757839] network_change_manager_client.cc:178 NCN Default DNS server changed -> 8.8.4.4,8.8.8.8
+
+NetworkEvent[2025/02/09 07:21:28.757835] network_change_manager_client.cc:172 NCN Default IPAddress changed -> 192.168.0.230
+
+NetworkEvent[2025/02/09 07:21:28.757830] network_change_manager_client.cc:148 NCN Default network changed: -> ethernet_0
+
+NetworkEvent[2025/02/09 07:21:28.757823] network_change_manager_client.cc:139 NCN Default connection type changed: CONNECTION_NONE -> CONNECTION_ETHERNET
+
+NetworkDebug[2025/02/09 07:21:28.757805] network_state_handler.cc:1362 GetEAPForEthernet: EAP Authenticaiton not completed.
+
+NetworkEvent[2025/02/09 07:21:28.757711] network_state_handler.cc:2234 NOTIFY: DefaultNetworkChanged: ethernet_0: Update
+
+NetworkDebug[2025/02/09 07:21:28.757706] network_state_handler.cc:1605 UpdateNetworkStateProperties for default: ethernet_0
+
+NetworkEvent[2025/02/09 07:21:28.757679] network_state.cc:282 InitialPropertiesReceived: ethernet_0 State: online Visible: 1
+
+NetworkEvent[2025/02/09 07:21:28.757628] network_state_handler.cc:1536 Network Properties Received: ethernet_0
+
+NetworkDebug[2025/02/09 07:21:28.757620] shill_property_handler.cc:636 GetProperties received for ethernet_0
+
+NetworkDebug[2025/02/09 07:21:28.742360] shill_property_handler.cc:398 ManagerPropertyChanged: ConnectionState = "online"
+
+NetworkEvent[2025/02/09 07:21:28.740839] network_state_handler.cc:2309 NOTIFY: PortalStateChanged: ethernet_0: Online
+
+NetworkEvent[2025/02/09 07:21:28.740832] network_state_handler.cc:1950 DefaultNetworkServiceChanged: ethernet_0
+
+NetworkEvent[2025/02/09 07:21:28.740824] shill_property_handler.cc:393 Manager.DefaultService = ethernet_0
+
+NetworkDebug[2025/02/09 07:21:28.738960] shill_property_handler.cc:398 ManagerPropertyChanged: DefaultTechnology = "ethernet"
+
+NetworkDebug[2025/02/09 07:21:28.737270] shill_property_handler.cc:398 ManagerPropertyChanged: ConnectedTechnologies = [ "ethernet" ]
+
+NetworkDebug[2025/02/09 07:21:28.736207] shill_property_handler.cc:398 ManagerPropertyChanged: Services = [ "/service/0" ]
+
+NetworkDebug[2025/02/09 07:21:28.736158] network_state_handler.cc:1362 GetEAPForEthernet: EAP Authenticaiton not completed.
+
+NetworkDebug[2025/02/09 07:21:28.735731] shill_property_handler.cc:450 UpdateProperties: Network: 2
+
+NetworkEvent[2025/02/09 07:21:28.735721] network_state_handler.cc:1408 UpdateManagedList: Network: 2
+
+NetworkDebug[2025/02/09 07:21:28.735710] shill_property_handler.cc:398 ManagerPropertyChanged: ServiceCompleteList = [ "/service/0", "/service/1" ]
+
+NetworkDebug[2025/02/09 07:21:28.735605] network_state_handler.cc:1362 GetEAPForEthernet: EAP Authenticaiton not completed.
+
+NetworkEvent[2025/02/09 07:21:28.733164] network_state_handler.cc:2376 NOTIFY: NetworkPropertiesUpdated: ethernet_0
+
+NetworkDebug[2025/02/09 07:21:28.732989] network_state_handler.cc:1362 GetEAPForEthernet: EAP Authenticaiton not completed.
+
+NetworkEvent[2025/02/09 07:21:28.732927] network_state_handler.cc:2354 NOTIFY:ActiveNetworksChanged
+
+NetworkEvent[2025/02/09 07:21:28.732894] network_state_handler.cc:2212 NOTIFY: NetworkConnectionStateChanged: ethernet_0: online
+
+NetworkEvent[2025/02/09 07:21:28.732887] network_state_handler.cc:2444 NetworkPropertyUpdated: ethernet_0, State = "online"
+
+NetworkDebug[2025/02/09 07:21:28.729559] network_state_handler.cc:1362 GetEAPForEthernet: EAP Authenticaiton not completed.
+
+NetworkEvent[2025/02/09 07:21:28.726556] network_state_handler.cc:2376 NOTIFY: NetworkPropertiesUpdated: ethernet_0
+
+NetworkDebug[2025/02/09 07:21:28.726379] network_state_handler.cc:1362 GetEAPForEthernet: EAP Authenticaiton not completed.
+
+NetworkEvent[2025/02/09 07:21:28.726325] network_state_handler.cc:2354 NOTIFY:ActiveNetworksChanged
+
+NetworkDebug[2025/02/09 07:21:28.726299] network_state_handler.cc:1362 GetEAPForEthernet: EAP Authenticaiton not completed.
+
+NetworkEvent[2025/02/09 07:21:28.726229] network_state_handler.cc:2212 NOTIFY: NetworkConnectionStateChanged: ethernet_0: ready
+
+NetworkEvent[2025/02/09 07:21:28.726225] network_state_handler.cc:2444 NetworkPropertyUpdated: ethernet_0, State = "ready"
+
+NetworkDebug[2025/02/09 07:21:28.726189] shill_property_handler.cc:284 Request Properties for: ethernet_0
+
+NetworkEvent[2025/02/09 07:21:28.726181] network_state_handler.cc:1247 RequestUpdate for: ethernet_0
+
+NetworkDebug[2025/02/09 07:21:28.640176] network_state_handler.cc:1346 GetEAPForEthernet: Not connected.
+
+NetworkEvent[2025/02/09 07:21:28.638402] network_state_handler.cc:2376 NOTIFY: NetworkPropertiesUpdated: ethernet_0
+
+NetworkEvent[2025/02/09 07:21:28.638386] shill_property_handler.cc:719 IP Config properties received: ethernet_0
+
+NetworkEvent[2025/02/09 07:21:28.638140] network_state_handler.cc:2387 NOTIFY: DevicePropertiesUpdated: /device/eth0
+
+NetworkEvent[2025/02/09 07:21:28.638132] device_state.cc:171 IPConfig for: /device/eth0 Changed: /ipconfig/eth0_0_dhcp
+
+NetworkEvent[2025/02/09 07:21:28.638120] shill_property_handler.cc:719 IP Config properties received: /device/eth0
+
+NetworkDebug[2025/02/09 07:21:28.634793] network_state_handler.cc:1346 GetEAPForEthernet: Not connected.
+
+NetworkEvent[2025/02/09 07:21:28.634210] network_state_handler.cc:2376 NOTIFY: NetworkPropertiesUpdated: ethernet_0
+
+NetworkEvent[2025/02/09 07:21:28.634203] network_state_handler.cc:2444 NetworkPropertyUpdated: ethernet_0, NetworkConfig = { "ExcludedRoutes": [ ], "IPv4Address": "192.168.0.230/24", "IPv4Gateway": "192.168.0.1", "IPv6Addresses": [ ], "IPv6Gateway": "", "IncludedRoutes": [ ], "MTU": 0, "NameServers": [ "8.8.4.4", "8.8.8.8" ], "SearchDomains": [ ], "SessionID": 1 }
+
+NetworkDebug[2025/02/09 07:21:26.252188] network_state_handler.cc:1346 GetEAPForEthernet: Not connected.
+
+NetworkDebug[2025/02/09 07:21:25.734712] network_sms_handler.cc:173 No paths returned
+
+NetworkDebug[2025/02/09 07:21:25.734372] network_state_handler.cc:1346 GetEAPForEthernet: Not connected.
+
+NetworkEvent[2025/02/09 07:21:25.733596] network_state_handler.cc:2387 NOTIFY: DevicePropertiesUpdated: /device/cellular_device
+
+NetworkEvent[2025/02/09 07:21:25.733588] network_state_handler.cc:2444 DevicePropertyUpdated: /device/cellular_device, Cellular.SIMSlotInfo = [ { "EID": "", "ICCID": "", "Primary": false }, { "EID": "89033023426300000000047401690392", "ICCID": "", "Primary": true } ]
+
+NetworkDebug[2025/02/09 07:21:25.724365] network_sms_handler.cc:140 SMS handler for /org/freedesktop/ModemManager1/Modem/0 created, setting SMS receive handler and fetching existing messages
+
+NetworkDebug[2025/02/09 07:21:25.720874] network_state_handler.cc:1346 GetEAPForEthernet: Not connected.
+
+NetworkDebug[2025/02/09 07:21:25.720628] network_3gpp_handler.cc:163 GetDeviceProperties: /device/eth0
+
+NetworkDebug[2025/02/09 07:21:25.720610] network_3gpp_handler.cc:163 GetDeviceProperties: /device/wlan0
+
+NetworkDebug[2025/02/09 07:21:25.720573] network_3gpp_handler.cc:163 GetDeviceProperties: /device/cellular_device
+
+NetworkDebug[2025/02/09 07:21:25.720346] network_state_handler.cc:1346 GetEAPForEthernet: Not connected.
+
+NetworkDebug[2025/02/09 07:21:25.720166] network_sms_handler.cc:476 GetDeviceProperties: /device/eth0
+
+NetworkDebug[2025/02/09 07:21:25.720148] network_sms_handler.cc:476 GetDeviceProperties: /device/wlan0
+
+NetworkDebug[2025/02/09 07:21:25.720101] network_sms_handler.cc:476 GetDeviceProperties: /device/cellular_device
+
+NetworkEvent[2025/02/09 07:21:25.719002] network_state_handler.cc:2387 NOTIFY: DevicePropertiesUpdated: /device/cellular_device
+
+NetworkEvent[2025/02/09 07:21:25.718998] network_state_handler.cc:2444 DevicePropertyUpdated: /device/cellular_device, Cellular.IMEI = "016348000585625"
+
+NetworkEvent[2025/02/09 07:21:25.718850] network_state_handler.cc:2387 NOTIFY: DevicePropertiesUpdated: /device/cellular_device
+
+NetworkEvent[2025/02/09 07:21:25.718842] network_state_handler.cc:2444 DevicePropertyUpdated: /device/cellular_device, Cellular.SIMLockStatus = { "LockEnabled": false, "LockType": "", "RetriesLeft": 999 }
+
+NetworkDebug[2025/02/09 07:21:25.716075] network_state_handler.cc:1346 GetEAPForEthernet: Not connected.
+
+NetworkEvent[2025/02/09 07:21:25.715231] network_state_handler.cc:2387 NOTIFY: DevicePropertiesUpdated: /device/cellular_device
+
+NetworkEvent[2025/02/09 07:21:25.715222] network_state_handler.cc:2444 DevicePropertyUpdated: /device/cellular_device, Cellular.SupportNetworkScan = true
+
+NetworkDebug[2025/02/09 07:21:25.705940] network_state_handler.cc:1346 GetEAPForEthernet: Not connected.
+
+NetworkEvent[2025/02/09 07:21:25.704560] network_state_handler.cc:2387 NOTIFY: DevicePropertiesUpdated: /device/cellular_device
+
+NetworkEvent[2025/02/09 07:21:25.704554] network_state_handler.cc:2444 DevicePropertyUpdated: /device/cellular_device, Interface = "wwan0"
+
+NetworkEvent[2025/02/09 07:21:25.703826] network_state_handler.cc:2387 NOTIFY: DevicePropertiesUpdated: /device/cellular_device
+
+NetworkEvent[2025/02/09 07:21:25.703817] network_state_handler.cc:2444 DevicePropertyUpdated: /device/cellular_device, Address = "e2d0308f50f7"
+
+NetworkDebug[2025/02/09 07:21:24.778203] network_state_handler.cc:1346 GetEAPForEthernet: Not connected.
+
+NetworkEvent[2025/02/09 07:21:24.777606] network_state_handler.cc:2081 NOTIFY: NetworkListChanged. Size: 2
+
+NetworkDebug[2025/02/09 07:21:24.777440] network_state_handler.cc:1346 GetEAPForEthernet: Not connected.
+
+NetworkEvent[2025/02/09 07:21:24.777377] network_state_handler.cc:2376 NOTIFY: NetworkPropertiesUpdated: ethernet_0
+
+NetworkEvent[2025/02/09 07:21:24.777366] network_state.cc:282 InitialPropertiesReceived: ethernet_0 State: configuration Visible: 1
+
+NetworkEvent[2025/02/09 07:21:24.777324] network_state_handler.cc:1536 Network Properties Received: ethernet_0
+
+NetworkDebug[2025/02/09 07:21:24.777317] shill_property_handler.cc:636 GetProperties received for ethernet_0
+
+NetworkDebug[2025/02/09 07:21:24.774855] shill_property_handler.cc:398 ManagerPropertyChanged: DefaultTechnology = ""
+
+NetworkDebug[2025/02/09 07:21:24.773204] shill_property_handler.cc:398 ManagerPropertyChanged: ConnectedTechnologies = [ ]
+
+NetworkDebug[2025/02/09 07:21:24.771716] shill_property_handler.cc:398 ManagerPropertyChanged: Services = [ "/service/0" ]
+
+NetworkDebug[2025/02/09 07:21:24.770479] shill_property_handler.cc:450 UpdateProperties: Network: 2
+
+NetworkEvent[2025/02/09 07:21:24.770403] network_state_handler.cc:1408 UpdateManagedList: Network: 2
+
+NetworkDebug[2025/02/09 07:21:24.770301] shill_property_handler.cc:398 ManagerPropertyChanged: ServiceCompleteList = [ "/service/0", "/service/1" ]
+
+NetworkDebug[2025/02/09 07:21:24.764509] network_state_handler.cc:1346 GetEAPForEthernet: Not connected.
+
+NetworkEvent[2025/02/09 07:21:24.763932] network_state_handler.cc:2376 NOTIFY: NetworkPropertiesUpdated: ethernet_0
+
+NetworkEvent[2025/02/09 07:21:24.763926] network_state_handler.cc:2444 NetworkPropertyUpdated: ethernet_0, DownlinkSpeedKbps = 1000000
+
+NetworkDebug[2025/02/09 07:21:24.763429] network_state_handler.cc:1346 GetEAPForEthernet: Not connected.
+
+NetworkEvent[2025/02/09 07:21:24.763349] network_state_handler.cc:2376 NOTIFY: NetworkPropertiesUpdated: ethernet_0
+
+NetworkEvent[2025/02/09 07:21:24.763340] network_state_handler.cc:2444 NetworkPropertyUpdated: ethernet_0, UplinkSpeedKbps = 1000000
+
+NetworkDebug[2025/02/09 07:21:24.758402] network_state_handler.cc:1346 GetEAPForEthernet: Not connected.
+
+NetworkEvent[2025/02/09 07:21:24.756785] network_state_handler.cc:2376 NOTIFY: NetworkPropertiesUpdated: ethernet_0
+
+NetworkDebug[2025/02/09 07:21:24.755641] network_state_handler.cc:1346 GetEAPForEthernet: Not connected.
+
+NetworkEvent[2025/02/09 07:21:24.755589] network_state_handler.cc:2354 NOTIFY:ActiveNetworksChanged
+
+NetworkEvent[2025/02/09 07:21:24.755563] network_state_handler.cc:2212 NOTIFY: NetworkConnectionStateChanged: ethernet_0: configuration
+
+NetworkEvent[2025/02/09 07:21:24.755558] network_state_handler.cc:2444 NetworkPropertyUpdated: ethernet_0, State = "configuration"
+
+NetworkDebug[2025/02/09 07:21:24.755525] shill_property_handler.cc:284 Request Properties for: ethernet_0
+
+NetworkEvent[2025/02/09 07:21:24.755519] network_state_handler.cc:1247 RequestUpdate for: ethernet_0
+
+NetworkDebug[2025/02/09 07:21:24.754888] network_state_handler.cc:1346 GetEAPForEthernet: Not connected.
+
+NetworkEvent[2025/02/09 07:21:24.754826] network_state_handler.cc:2376 NOTIFY: NetworkPropertiesUpdated: ethernet_0
+
+NetworkEvent[2025/02/09 07:21:24.754820] network_state_handler.cc:2444 NetworkPropertyUpdated: ethernet_0, NetworkConfig = { "ExcludedRoutes": [ ], "IPv4Address": "", "IPv4Gateway": "", "IPv6Addresses": [ ], "IPv6Gateway": "", "IncludedRoutes": [ ], "MTU": 0, "NameServers": [ ], "SearchDomains": [ ], "SessionID": 0 }
+
+NetworkDebug[2025/02/09 07:21:24.754730] shill_property_handler.cc:398 ManagerPropertyChanged: DefaultTechnology = ""
+
+NetworkDebug[2025/02/09 07:21:24.752973] shill_property_handler.cc:398 ManagerPropertyChanged: ConnectedTechnologies = [ ]
+
+NetworkDebug[2025/02/09 07:21:24.751923] shill_property_handler.cc:398 ManagerPropertyChanged: Services = [ "/service/0" ]
+
+NetworkEvent[2025/02/09 07:21:24.751035] network_state_handler.cc:2081 NOTIFY: NetworkListChanged. Size: 2
+
+NetworkDebug[2025/02/09 07:21:24.751015] shill_property_handler.cc:450 UpdateProperties: Network: 2
+
+NetworkEvent[2025/02/09 07:21:24.750998] network_state_handler.cc:1408 UpdateManagedList: Network: 2
+
+NetworkDebug[2025/02/09 07:21:24.750981] shill_property_handler.cc:398 ManagerPropertyChanged: ServiceCompleteList = [ "/service/0", "/service/1" ]
+
+NetworkDebug[2025/02/09 07:21:24.740347] network_state_handler.cc:1346 GetEAPForEthernet: Not connected.
+
+NetworkEvent[2025/02/09 07:21:24.740268] network_state_handler.cc:2376 NOTIFY: NetworkPropertiesUpdated: ethernet_0
+
+NetworkEvent[2025/02/09 07:21:24.740260] network_state_handler.cc:2444 NetworkPropertyUpdated: ethernet_0, Visible = true
+
+NetworkEvent[2025/02/09 07:21:24.740024] network_state_handler.cc:2387 NOTIFY: DevicePropertiesUpdated: /device/eth0
+
+NetworkEvent[2025/02/09 07:21:24.740013] network_state_handler.cc:2444 DevicePropertyUpdated: /device/eth0, Ethernet.LinkUp = true
+
+FirmwareEvent[2025/02/09 07:21:23.912367] firmware_update_manager.cc:845 OnDeviceListResponse(). Devices: 0
+
+FirmwareUser[2025/02/09 07:21:23.912363] fwupd_client.cc:541 fwupd: Devices found: 0
+
+FirmwareDebug[2025/02/09 07:21:23.912353] fwupd_client.cc:519 Ignoring internal device: Touchpad
+
+FirmwareDebug[2025/02/09 07:21:23.912335] fwupd_client.cc:519 Ignoring internal device: N116BGE-EA2
+
+FirmwareDebug[2025/02/09 07:21:23.912317] fwupd_client.cc:519 Ignoring internal device: A3A551
+
+FirmwareUser[2025/02/09 07:21:23.908816] fwupd_client.cc:238 fwupd: RequestDevices called
+
+FirmwareUser[2025/02/09 07:21:23.908814] firmware_update_manager.cc:637 RequestDevices
+
+FirmwareUser[2025/02/09 07:21:23.908811] firmware_update_manager.cc:630 RequestAllUpdates: Skipping refresh remote for LVFS
+
+FirmwareUser[2025/02/09 07:21:23.908801] firmware_update_manager.cc:607 RequestAllUpdates: 2
+
+USBUser[2025/02/09 07:21:22.579449] usb_service_linux.cc:302 USB device added: path=/dev/bus/usb/003/006 vendor=8457 "VIA Technologies Inc. ", product=257 "USB 2.0 BILLBOARD ", serial="0000000000000001", guid=1d780442-8912-4695-9b3e-dbc7c3ff7d8c
+
+USBUser[2025/02/09 07:21:22.530502] usb_service_linux.cc:302 USB device added: path=/dev/bus/usb/003/005 vendor=2362 "PixArt", product=9488 "USB Optical Mouse", serial="", guid=88a30e72-0030-4f99-b5c1-f2b1057dddab
+
+USBUser[2025/02/09 07:21:21.553327] usb_service_linux.cc:302 USB device added: path=/dev/bus/usb/004/005 vendor=3034 "Realtek", product=33107 "USB 10/100/1000 LAN", serial="000001", guid=ad28d9c8-e164-4afe-b94f-ba8dead5910c
+
+NetworkError[2025/02/09 07:21:21.352599] network_3gpp_handler.cc:213 Device has no or empty DBusObject Property: /device/cellular_device
+
+NetworkError[2025/02/09 07:21:21.344478] network_sms_handler.cc:525 Device has no or empty DBusObject Property: /device/cellular_device
+
+NetworkUser[2025/02/09 07:21:21.338739] network_device_handler_impl.cc:96 Device.SetProperty: WakeOnWiFiAllowed = false
+
+NetworkUser[2025/02/09 07:21:21.338693] network_device_handler_impl.cc:96 Device.SetProperty: Cellular.PolicyAllowRoaming = false
+
+NetworkEvent[2025/02/09 07:21:21.338687] network_state_handler.cc:2090 NOTIFY: DeviceListChanged. Size: 3
+
+NetworkEvent[2025/02/09 07:21:21.338679] network_state_handler.cc:1867 DeviceList: cellular_device, wlan0, eth0
+
+NetworkEvent[2025/02/09 07:21:21.338669] network_state_handler.cc:1536 Device Properties Received: /device/eth0
+
+NetworkDebug[2025/02/09 07:21:21.338667] shill_property_handler.cc:636 GetProperties received for /device/eth0
+
+NetworkEvent[2025/02/09 07:21:21.338619] network_state_handler.cc:1536 Device Properties Received: /device/wlan0
+
+NetworkDebug[2025/02/09 07:21:21.338616] shill_property_handler.cc:636 GetProperties received for /device/wlan0
+
+NetworkEvent[2025/02/09 07:21:21.338523] network_state_handler.cc:1536 Device Properties Received: /device/cellular_device
+
+NetworkDebug[2025/02/09 07:21:21.338518] shill_property_handler.cc:636 GetProperties received for /device/cellular_device
+
+NetworkUser[2025/02/09 07:21:21.338250] network_device_handler_impl.cc:96 Device.SetProperty: WakeOnWiFiAllowed = false
+
+NetworkUser[2025/02/09 07:21:21.338195] network_device_handler_impl.cc:96 Device.SetProperty: Cellular.PolicyAllowRoaming = false
+
+NetworkEvent[2025/02/09 07:21:21.338187] network_state_handler.cc:2090 NOTIFY: DeviceListChanged. Size: 3
+
+NetworkEvent[2025/02/09 07:21:21.338177] shill_property_handler.cc:559 UninitializedTechnologies:[ ]
+
+NetworkDebug[2025/02/09 07:21:21.338174] shill_property_handler.cc:398 ManagerPropertyChanged: UninitializedTechnologies = [ ]
+
+NetworkEvent[2025/02/09 07:21:21.338148] shill_property_handler.cc:526 EnabledTechnologies:[ "ethernet" ]
+
+NetworkDebug[2025/02/09 07:21:21.338142] shill_property_handler.cc:398 ManagerPropertyChanged: EnabledTechnologies = [ "ethernet" ]
+
+NetworkUser[2025/02/09 07:21:21.337869] network_device_handler_impl.cc:96 Device.SetProperty: WakeOnWiFiAllowed = false
+
+NetworkUser[2025/02/09 07:21:21.337812] network_device_handler_impl.cc:96 Device.SetProperty: Cellular.PolicyAllowRoaming = false
+
+NetworkEvent[2025/02/09 07:21:21.337801] network_state_handler.cc:2090 NOTIFY: DeviceListChanged. Size: 3
+
+NetworkEvent[2025/02/09 07:21:21.337788] shill_property_handler.cc:505 AvailableTechnologies:[ "cellular", "ethernet", "wifi" ]
+
+NetworkDebug[2025/02/09 07:21:21.337780] shill_property_handler.cc:398 ManagerPropertyChanged: AvailableTechnologies = [ "cellular", "ethernet", "wifi" ]
+
+NetworkDebug[2025/02/09 07:21:21.326142] network_3gpp_handler.cc:163 GetDeviceProperties: /device/eth0
+
+NetworkDebug[2025/02/09 07:21:21.326126] network_3gpp_handler.cc:163 GetDeviceProperties: /device/wlan0
+
+NetworkDebug[2025/02/09 07:21:21.326108] network_3gpp_handler.cc:163 GetDeviceProperties: /device/cellular_device
+
+NetworkDebug[2025/02/09 07:21:21.326091] network_sms_handler.cc:476 GetDeviceProperties: /device/eth0
+
+NetworkDebug[2025/02/09 07:21:21.326074] network_sms_handler.cc:476 GetDeviceProperties: /device/wlan0
+
+NetworkDebug[2025/02/09 07:21:21.326053] network_sms_handler.cc:476 GetDeviceProperties: /device/cellular_device
+
+NetworkDebug[2025/02/09 07:21:21.325885] shill_property_handler.cc:284 Request Properties for: /device/eth0
+
+NetworkDebug[2025/02/09 07:21:21.325807] shill_property_handler.cc:284 Request Properties for: /device/wlan0
+
+NetworkDebug[2025/02/09 07:21:21.325632] shill_property_handler.cc:284 Request Properties for: /device/cellular_device
+
+NetworkDebug[2025/02/09 07:21:21.325628] shill_property_handler.cc:450 UpdateProperties: Device: 3
+
+NetworkEvent[2025/02/09 07:21:21.325615] network_state_handler.cc:1408 UpdateManagedList: Device: 3
+
+NetworkDebug[2025/02/09 07:21:21.325604] shill_property_handler.cc:398 ManagerPropertyChanged: Devices = [ "/device/cellular_device", "/device/wlan0", "/device/eth0" ]
+
+NetworkUser[2025/02/09 07:21:21.324172] network_device_handler_impl.cc:96 Device.SetProperty: WakeOnWiFiAllowed = false
+
+NetworkUser[2025/02/09 07:21:21.324019] network_device_handler_impl.cc:96 Device.SetProperty: Cellular.PolicyAllowRoaming = false
+
+NetworkEvent[2025/02/09 07:21:21.324011] network_state_handler.cc:2090 NOTIFY: DeviceListChanged. Size: 2
+
+NetworkEvent[2025/02/09 07:21:21.324000] shill_property_handler.cc:526 EnabledTechnologies:[ "ethernet" ]
+
+NetworkDebug[2025/02/09 07:21:21.323993] shill_property_handler.cc:398 ManagerPropertyChanged: EnabledTechnologies = [ "ethernet" ]
+
+NetworkUser[2025/02/09 07:21:21.308675] network_device_handler_impl.cc:96 Device.SetProperty: WakeOnWiFiAllowed = false
+
+NetworkUser[2025/02/09 07:21:21.308530] network_device_handler_impl.cc:96 Device.SetProperty: Cellular.PolicyAllowRoaming = false
+
+NetworkEvent[2025/02/09 07:21:21.308521] network_state_handler.cc:2090 NOTIFY: DeviceListChanged. Size: 2
+
+NetworkEvent[2025/02/09 07:21:21.308507] shill_property_handler.cc:559 UninitializedTechnologies:[ "ethernet" ]
+
+NetworkDebug[2025/02/09 07:21:21.308500] shill_property_handler.cc:398 ManagerPropertyChanged: UninitializedTechnologies = [ "ethernet" ]
+
+USBUser[2025/02/09 07:21:20.818454] usb_service_linux.cc:302 USB device added: path=/dev/bus/usb/004/003 vendor=11447 "Fibocom Wireless Inc.", product=418 "Fibocom FM101-GL Module", serial="39f6e297", guid=5fcd6e27-6344-4a14-89c6-b389baca21ba
+
+USBEvent[2025/02/09 07:21:20.818433] usb_device_linux.cc:137 Permission broker failed to open the device: org.freedesktop.DBus.Error.Failed: permission_broker/permission_denied:Permission to open '/dev/bus/usb/004/003' denied
+
+NetworkEvent[2025/02/09 07:21:20.699938] shill_property_handler.cc:559 UninitializedTechnologies:[ ]
+
+NetworkDebug[2025/02/09 07:21:20.699931] shill_property_handler.cc:398 ManagerPropertyChanged: UninitializedTechnologies = [ ]
+
+PowerDebug[2025/02/09 07:21:19.507192] power_manager_client.cc:988 Received power supply poll signal.
+
+FirmwareEvent[2025/02/09 07:21:18.922482] firmware_update_manager.cc:845 OnDeviceListResponse(). Devices: 0
+
+FirmwareUser[2025/02/09 07:21:18.922475] fwupd_client.cc:541 fwupd: Devices found: 0
+
+FirmwareDebug[2025/02/09 07:21:18.922454] fwupd_client.cc:519 Ignoring internal device: Touchpad
+
+FirmwareDebug[2025/02/09 07:21:18.922415] fwupd_client.cc:519 Ignoring internal device: N116BGE-EA2
+
+FirmwareDebug[2025/02/09 07:21:18.922387] fwupd_client.cc:519 Ignoring internal device: A3A551
+
+FirmwareUser[2025/02/09 07:21:18.907917] fwupd_client.cc:238 fwupd: RequestDevices called
+
+FirmwareUser[2025/02/09 07:21:18.907915] firmware_update_manager.cc:637 RequestDevices
+
+FirmwareUser[2025/02/09 07:21:18.907913] firmware_update_manager.cc:630 RequestAllUpdates: Skipping refresh remote for LVFS
+
+FirmwareUser[2025/02/09 07:21:18.907905] firmware_update_manager.cc:607 RequestAllUpdates: 2
+
+LoginEvent[2025/02/09 07:21:18.550224] auth_factor_editor.cc:676 Got list of configured auth factors
+
+PrinterDebug[2025/02/09 07:21:18.383335] cups_printers_manager.cc:780 Sending notification for 0 printers in class (Saved)
+
+PrinterDebug[2025/02/09 07:21:18.383314] cups_printers_manager.cc:780 Sending notification for 0 printers in class (Discovered)
+
+PrinterDebug[2025/02/09 07:21:18.383222] cups_printers_manager.cc:780 Sending notification for 0 printers in class (Automatic)
+
+NetworkEvent[2025/02/09 07:21:18.344138] auto_connect_handler.cc:236 AutoConnectInitiated [Logged In, Policy Applied]
+
+LoginEvent[2025/02/09 07:21:18.296200] auth_factor_editor.cc:67 Listing AuthFactors
+
+BluetoothEvent[2025/02/09 07:21:18.273288] device_cache.cc:42 GetUnpairedDevices() called when Bluetooth is not enabled nor enabling, returning an empty list.
+
+NetworkEvent[2025/02/09 07:21:18.267478] auto_connect_handler.cc:437 ScanAndConnectToBestServices [Logged In, Policy Applied]
+
+BluetoothEvent[2025/02/09 07:21:18.220376] adapter_state_controller_impl.cc:80 Bluetooth disabled successfully
+
+BluetoothEvent[2025/02/09 07:21:18.220364] device_cache.cc:26 GetPairedDevices() called when Bluetooth is not enabled nor enabling, returning an empty list.
+
+BluetoothEvent[2025/02/09 07:21:18.220290] device_cache.cc:42 GetUnpairedDevices() called when Bluetooth is not enabled nor enabling, returning an empty list.
+
+BluetoothEvent[2025/02/09 07:21:18.220286] device_cache.cc:26 GetPairedDevices() called when Bluetooth is not enabled nor enabling, returning an empty list.
+
+BluetoothDebug[2025/02/09 07:21:18.220283] bluetooth_device_status_notifier_impl.cc:74 Checking for device state changes
+
+BluetoothEvent[2025/02/09 07:21:18.220254] device_cache.cc:26 GetPairedDevices() called when Bluetooth is not enabled nor enabling, returning an empty list.
+
+NetworkUser[2025/02/09 07:21:18.053309] network_device_handler_impl.cc:96 Device.SetProperty: WakeOnWiFiAllowed = false
+
+NetworkUser[2025/02/09 07:21:18.053270] network_device_handler_impl.cc:96 Device.SetProperty: Cellular.PolicyAllowRoaming = false
+
+NetworkEvent[2025/02/09 07:21:18.053259] network_state_handler.cc:2090 NOTIFY: DeviceListChanged. Size: 2
+
+NetworkEvent[2025/02/09 07:21:18.053112] policy_applicator.cc:360 Updating previously managed configuration with the updated policy Ethernet-Ethernet.
+
+PowerDebug[2025/02/09 07:21:18.030438] power_manager_client.cc:988 Received power supply poll signal.
+
+FirmwareEvent[2025/02/09 07:21:18.006805] firmware_update_manager.cc:845 OnDeviceListResponse(). Devices: 0
+
+FirmwareUser[2025/02/09 07:21:18.006800] fwupd_client.cc:541 fwupd: Devices found: 0
+
+FirmwareDebug[2025/02/09 07:21:18.006789] fwupd_client.cc:519 Ignoring internal device: Touchpad
+
+FirmwareDebug[2025/02/09 07:21:18.006736] fwupd_client.cc:519 Ignoring internal device: N116BGE-EA2
+
+FirmwareDebug[2025/02/09 07:21:18.006715] fwupd_client.cc:519 Ignoring internal device: A3A551
+
+NetworkEvent[2025/02/09 07:21:17.603616] client_cert_resolver.cc:599 ClientCertResolver: Certificates Loaded.
+
+NetworkEvent[2025/02/09 07:21:17.603609] network_connection_handler_impl.cc:289 Certificates Loaded
+
+PowerDebug[2025/02/09 07:21:17.586672] power_manager_client.cc:988 Received power supply poll signal.
+
+NetworkDebug[2025/02/09 07:21:17.480973] in_process_instance.cc:32 Binding to CrosHotspotConfig
+
+NetworkEvent[2025/02/09 07:21:17.480798] cros_network_config.cc:2415 CrosNetworkConfig::BindReceiver()
+
+FirmwareUser[2025/02/09 07:21:17.459487] fwupd_client.cc:238 fwupd: RequestDevices called
+
+FirmwareUser[2025/02/09 07:21:17.459484] firmware_update_manager.cc:637 RequestDevices
+
+FirmwareUser[2025/02/09 07:21:17.459479] firmware_update_manager.cc:630 RequestAllUpdates: Skipping refresh remote for LVFS
+
+FirmwareUser[2025/02/09 07:21:17.459473] firmware_update_manager.cc:607 RequestAllUpdates: 1
+
+NetworkDebug[2025/02/09 07:21:17.459453] firmware_update_manager.cc:451 NetworkStateHandler::AddObserver: 0x0x440248ff30
+
+FirmwareEvent[2025/02/09 07:21:17.459433] firmware_update_manager.cc:443 FirmwareUpdateManager()
+
+BluetoothEvent[2025/02/09 07:21:17.320715] device_cache.cc:26 GetPairedDevices() called when Bluetooth is not enabled nor enabling, returning an empty list.
+
+NetworkEvent[2025/02/09 07:21:17.174645] client_cert_resolver.cc:576 ClientCertResolver: NetworkListChanged: 1
+
+NetworkEvent[2025/02/09 07:21:17.174632] network_state_handler.cc:2081 NOTIFY: NetworkListChanged. Size: 2
+
+NetworkEvent[2025/02/09 07:21:17.174614] network_state_handler.cc:2376 NOTIFY: NetworkPropertiesUpdated: etherneteap_1
+
+NetworkEvent[2025/02/09 07:21:17.174605] network_state.cc:282 InitialPropertiesReceived: etherneteap_1 State: idle Visible: 0
+
+NetworkEvent[2025/02/09 07:21:17.174588] network_state_handler.cc:1536 Network Properties Received: etherneteap_1
+
+NetworkDebug[2025/02/09 07:21:17.174584] shill_property_handler.cc:636 GetProperties received for etherneteap_1
+
+NetworkDebug[2025/02/09 07:21:17.174335] network_state_handler.cc:1346 GetEAPForEthernet: Not connected.
+
+NetworkEvent[2025/02/09 07:21:17.174272] network_state_handler.cc:2376 NOTIFY: NetworkPropertiesUpdated: ethernet_0
+
+NetworkEvent[2025/02/09 07:21:17.174264] network_state.cc:282 InitialPropertiesReceived: ethernet_0 State: idle Visible: 0
+
+NetworkEvent[2025/02/09 07:21:17.174230] network_state_handler.cc:1536 Network Properties Received: ethernet_0
+
+NetworkDebug[2025/02/09 07:21:17.174224] shill_property_handler.cc:636 GetProperties received for ethernet_0
+
+NetworkDebug[2025/02/09 07:21:17.001116] shill_property_handler.cc:398 ManagerPropertyChanged: DefaultTechnology = ""
+
+NetworkDebug[2025/02/09 07:21:17.001081] shill_property_handler.cc:398 ManagerPropertyChanged: ConnectedTechnologies = [ ]
+
+NetworkDebug[2025/02/09 07:21:17.001044] shill_property_handler.cc:398 ManagerPropertyChanged: Services = [ ]
+
+NetworkDebug[2025/02/09 07:21:17.000993] shill_property_handler.cc:450 UpdateProperties: Network: 2
+
+NetworkEvent[2025/02/09 07:21:17.000981] network_state_handler.cc:1408 UpdateManagedList: Network: 2
+
+NetworkDebug[2025/02/09 07:21:17.000969] shill_property_handler.cc:398 ManagerPropertyChanged: ServiceCompleteList = [ "/service/0", "/service/1" ]
+
+NetworkDebug[2025/02/09 07:21:17.000609] shill_property_handler.cc:284 Request Properties for: etherneteap_1
+
+NetworkEvent[2025/02/09 07:21:17.000602] network_state_handler.cc:1506 ProfileListChanged. Re-Requesting Network Properties
+
+NetworkDebug[2025/02/09 07:21:17.000597] shill_property_handler.cc:398 ManagerPropertyChanged: Profiles = [ "/profile/default", "/profile/chronos/shill" ]
+
+NetworkDebug[2025/02/09 07:21:17.000389] network_state_handler.cc:1346 GetEAPForEthernet: Not connected.
+
+NetworkEvent[2025/02/09 07:21:17.000323] network_state_handler.cc:2376 NOTIFY: NetworkPropertiesUpdated: ethernet_0
+
+NetworkEvent[2025/02/09 07:21:17.000316] network_state_handler.cc:2444 NetworkPropertyUpdated: ethernet_0, Profile = "/profile/chronos/shill"
+
+NetworkDebug[2025/02/09 07:21:17.000128] shill_property_handler.cc:284 Request Properties for: ethernet_0
+
+NetworkEvent[2025/02/09 07:21:17.000120] network_state_handler.cc:1247 RequestUpdate for: ethernet_0
+
+CameraEvent[2025/02/09 07:21:16.614151] camera_hal_dispatcher_impl.cc:570 Camera software privacy switch state changed: ON
+
+NetworkDebug[2025/02/09 07:21:16.730417] shill_property_handler.cc:398 ManagerPropertyChanged: DNSProxyDOHProviders = { "https://dns.google/dns-query{?dns}": "" }
+
+BluetoothEvent[2025/02/09 07:21:16.637403] device_cache.cc:26 GetPairedDevices() called when Bluetooth is not enabled nor enabling, returning an empty list.
+
+NetworkUser[2025/02/09 07:21:16.622551] network_configuration_handler.cc:489 SetManagerProperty: AlwaysOnVpnPackage: ""
+
+BluetoothEvent[2025/02/09 07:21:16.622173] device_name_manager_impl.cc:216 Finished migration of Bluetooth nickname prefs
+
+BluetoothEvent[2025/02/09 07:21:16.621934] device_name_manager_impl.cc:158 Starting migration of Bluetooth nickname prefs
+
+BluetoothEvent[2025/02/09 07:21:16.621823] device_cache.cc:26 GetPairedDevices() called when Bluetooth is not enabled nor enabling, returning an empty list.
+
+BluetoothEvent[2025/02/09 07:21:16.621812] device_cache.cc:42 GetUnpairedDevices() called when Bluetooth is not enabled nor enabling, returning an empty list.
+
+BluetoothEvent[2025/02/09 07:21:16.621803] device_cache.cc:26 GetPairedDevices() called when Bluetooth is not enabled nor enabling, returning an empty list.
+
+BluetoothDebug[2025/02/09 07:21:16.621794] bluetooth_device_status_notifier_impl.cc:74 Checking for device state changes
+
+BluetoothEvent[2025/02/09 07:21:16.621710] device_cache.cc:26 GetPairedDevices() called when Bluetooth is not enabled nor enabling, returning an empty list.
+
+BluetoothEvent[2025/02/09 07:21:16.621509] bluetooth_adapter_floss.cc:372 SetPowered: 0
+
+BluetoothEvent[2025/02/09 07:21:16.621503] adapter_state_controller_impl.cc:142 Attempting to disable Bluetooth
+
+BluetoothEvent[2025/02/09 07:21:16.621497] adapter_state_controller_impl.cc:41 Setting queued Bluetooth state change to [Disable]
+
+BluetoothEvent[2025/02/09 07:21:16.621485] bluetooth_power_controller_impl.cc:229 Setting adapter state to disabled
+
+BluetoothEvent[2025/02/09 07:21:16.621480] bluetooth_power_controller_impl.cc:206 Applying primary user pref Bluetooth power: 0
+
+BluetoothEvent[2025/02/09 07:21:16.621432] bluetooth_power_controller_impl.cc:180 Primary user pref has not been attempted to be applied, applying
+
+BluetoothEvent[2025/02/09 07:21:16.621428] bluetooth_power_controller_impl.cc:168 Initializing primary user pref service
+
+BluetoothEvent[2025/02/09 07:21:16.621425] bluetooth_power_controller_impl.cc:130 Local state has already be initialized
+
+BluetoothEvent[2025/02/09 07:21:16.621420] bluetooth_power_controller_impl.cc:125 Initializing local state pref service
+
+BluetoothEvent[2025/02/09 07:21:16.621414] cros_bluetooth_config.cc:74 Setting CrosBluetoothConfig services' pref services
+
+BluetoothEvent[2025/02/09 07:21:16.621404] bluetooth_pref_state_observer.cc:43 Primary profile loaded, setting CrosBluetoothConfig with profile prefs service
+
+NetworkEvent[2025/02/09 07:21:16.621271] managed_cellular_pref_handler.cc:230 Finished migration of existing ICCID and SM-DP+ pairs
+
+NetworkEvent[2025/02/09 07:21:16.621257] managed_cellular_pref_handler.cc:209 Starting migration of existing ICCID and SM-DP+ pairs
+
+PowerUser[2025/02/09 07:21:16.612576] power_manager_client.cc:518 SetPolicy
+
+PrinterDebug[2025/02/09 07:21:16.579714] cups_printers_manager.cc:780 Sending notification for 0 printers in class (Discovered)
+
+PrinterDebug[2025/02/09 07:21:16.579700] cups_printers_manager.cc:780 Sending notification for 0 printers in class (Automatic)
+
+PrinterEvent[2025/02/09 07:21:16.579692] print_servers_manager.cc:86 The list of server printers has been completed. Number of server printers: 0
+
+PrinterEvent[2025/02/09 07:21:16.579687] print_servers_manager.cc:103 The list of print servers has been completed. Number of print servers: 0
+
+PrinterDebug[2025/02/09 07:21:16.579631] cups_printers_manager.cc:780 Sending notification for 0 printers in class (Enterprise)
+
+PrinterDebug[2025/02/09 07:21:16.579624] enterprise_printers_provider.cc:215 EnterprisePrintersProvider::RecalculateCurrentPrintersList()-user-printers: complete=1 count=0
+
+PrinterDebug[2025/02/09 07:21:16.579617] enterprise_printers_provider.cc:204 EnterprisePrintersProvider::RecalculateCurrentPrintersList()-device-printers: complete=1 count=0
+
+NetworkUser[2025/02/09 07:21:16.578836] network_configuration_handler.cc:489 SetManagerProperty: DOHExcludedDomains: [ ]
+
+NetworkUser[2025/02/09 07:21:16.578800] network_configuration_handler.cc:489 SetManagerProperty: DOHIncludedDomains: [ ]
+
+NetworkUser[2025/02/09 07:21:16.578648] network_configuration_handler.cc:489 SetManagerProperty: DNSProxyDOHProviders: { "https://dns.google/dns-query{?dns}": "" }
+
+PrinterDebug[2025/02/09 07:21:16.553940] cups_printers_manager.cc:780 Sending notification for 0 printers in class (Enterprise)
+
+PrinterDebug[2025/02/09 07:21:16.553935] enterprise_printers_provider.cc:215 EnterprisePrintersProvider::RecalculateCurrentPrintersList()-user-printers: complete=1 count=0
+
+PrinterDebug[2025/02/09 07:21:16.553931] enterprise_printers_provider.cc:204 EnterprisePrintersProvider::RecalculateCurrentPrintersList()-device-printers: complete=1 count=0
+
+PrinterDebug[2025/02/09 07:21:16.553839] cups_printers_manager.cc:780 Sending notification for 0 printers in class (Enterprise)
+
+PrinterDebug[2025/02/09 07:21:16.553829] enterprise_printers_provider.cc:215 EnterprisePrintersProvider::RecalculateCurrentPrintersList()-user-printers: complete=0 count=0
+
+PrinterDebug[2025/02/09 07:21:16.553814] enterprise_printers_provider.cc:204 EnterprisePrintersProvider::RecalculateCurrentPrintersList()-device-printers: complete=1 count=0
+
+NetworkEvent[2025/02/09 07:21:15.829929] cros_network_config.cc:2415 CrosNetworkConfig::BindReceiver()
+
+PrinterDebug[2025/02/09 07:21:15.478130] cups_printers_manager.cc:780 Sending notification for 0 printers in class (Discovered)
+
+PrinterDebug[2025/02/09 07:21:15.478128] cups_printers_manager.cc:780 Sending notification for 0 printers in class (Automatic)
+
+PrinterDebug[2025/02/09 07:21:15.478119] cups_printers_manager.cc:780 Sending notification for 0 printers in class (Discovered)
+
+PrinterDebug[2025/02/09 07:21:15.478116] cups_printers_manager.cc:780 Sending notification for 0 printers in class (Automatic)
+
+PrinterDebug[2025/02/09 07:21:15.478108] cups_printers_manager.cc:780 Sending notification for 0 printers in class (Enterprise)
+
+NetworkEvent[2025/02/09 07:21:15.478048] cros_network_config.cc:2415 CrosNetworkConfig::BindReceiver()
+
+PrinterDebug[2025/02/09 07:21:15.478018] enterprise_printers_provider.cc:215 EnterprisePrintersProvider::RecalculateCurrentPrintersList()-user-printers: complete=0 count=0
+
+PrinterDebug[2025/02/09 07:21:15.478013] enterprise_printers_provider.cc:204 EnterprisePrintersProvider::RecalculateCurrentPrintersList()-device-printers: complete=0 count=0
+
+BluetoothEvent[2025/02/09 07:21:15.477669] bluetooth_api.cc:82 BluetoothAPI: 0x4403297400
+
+NetworkEvent[2025/02/09 07:21:15.464733] client_cert_resolver.cc:599 ClientCertResolver: Certificates Loaded.
+
+NetworkEvent[2025/02/09 07:21:15.464725] network_connection_handler_impl.cc:289 Certificates Loaded
+
+NetworkEvent[2025/02/09 07:21:15.437197] client_cert_resolver.cc:599 ClientCertResolver: Certificates Loaded.
+
+NetworkEvent[2025/02/09 07:21:15.437192] network_connection_handler_impl.cc:289 Certificates Loaded
+
+PrinterEvent[2025/02/09 07:21:15.358399] lorgnette_scanner_manager.cc:1076 LorgnetteScannerManager::Create
+
+NetworkDebug[2025/02/09 07:21:15.226665] network_state_handler.cc:1346 GetEAPForEthernet: Not connected.
+
+NetworkEvent[2025/02/09 07:21:15.226630] network_state_handler.cc:2376 NOTIFY: NetworkPropertiesUpdated: ethernet_0
+
+NetworkUser[2025/02/09 07:21:15.003558] network_device_handler_impl.cc:96 Device.SetProperty: WakeOnWiFiAllowed = false
+
+NetworkUser[2025/02/09 07:21:15.003455] network_device_handler_impl.cc:96 Device.SetProperty: Cellular.PolicyAllowRoaming = false
+
+NetworkEvent[2025/02/09 07:21:15.003440] network_state_handler.cc:2090 NOTIFY: DeviceListChanged. Size: 2
+
+LoginEvent[2025/02/09 07:21:15.003129] login_state.cc:88 LoggedInState: 2 UserType: 1
+
+LoginEvent[2025/02/09 07:21:15.000001] auth_factor_editor.cc:676 Got list of configured auth factors
+
+LoginEvent[2025/02/09 07:21:14.990207] auth_factor_editor.cc:67 Listing AuthFactors
+
+LoginEvent[2025/02/09 07:21:14.989274] auth_session_authenticator.cc:1101 Logged in successfully
+
+BluetoothEvent[2025/02/09 07:21:13.515524] adapter_state_controller_impl.cc:80 Bluetooth enabled successfully
+
+BluetoothDebug[2025/02/09 07:21:13.515505] bluetooth_device_status_notifier_impl.cc:74 Checking for device state changes
+
+BluetoothEvent[2025/02/09 07:21:13.512298] floss_advertiser_client.cc:373 CompleteRegisterCallback: callback_id_ = 14
+
+BluetoothEvent[2025/02/09 07:21:13.512286] floss_advertiser_client.cc:359 CompleteRegisterCallback: error_response=(nil)
+
+BluetoothDebug[2025/02/09 07:21:13.157516] bluetooth_device_status_notifier_impl.cc:74 Checking for device state changes
+
+BluetoothEvent[2025/02/09 07:21:13.157352] bluetooth_adapter_floss.cc:372 SetPowered: 1
+
+BluetoothEvent[2025/02/09 07:21:13.157348] adapter_state_controller_impl.cc:142 Attempting to enable Bluetooth
+
+BluetoothEvent[2025/02/09 07:21:13.157344] adapter_state_controller_impl.cc:41 Setting queued Bluetooth state change to [Enable]
+
+BluetoothEvent[2025/02/09 07:21:13.157339] bluetooth_power_controller_impl.cc:229 Setting adapter state to enabled
+
+BluetoothEvent[2025/02/09 07:21:13.157330] bluetooth_power_controller_impl.cc:115 Adapter is now available after being unavailable, setting adapter state to 1
+
+LoginEvent[2025/02/09 07:21:13.044111] mount_performer.cc:58 Mount persistent directory
+
+LoginEvent[2025/02/09 07:21:13.044097] auth_performer.cc:706 Authenticated successfully
+
+LoginEvent[2025/02/09 07:21:12.837428] auth_performer.cc:234 Authenticating using factor 2
+
+LoginEvent[2025/02/09 07:21:12.837403] auth_session_authenticator.cc:461 Regular user login 1
+
+LoginEvent[2025/02/09 07:21:12.837356] auth_performer.cc:602 AuthSession started, user exists
+
+LoginEvent[2025/02/09 07:21:12.825690] auth_performer.cc:137 Starting AuthSession
+
+LoginUser[2025/02/09 07:21:12.824056] auth_session_authenticator.cc:773 Authentication attempt : Returning regular user
+
+CameraEvent[2025/02/09 07:21:11.254286] camera_hal_dispatcher_impl.cc:570 Camera software privacy switch state changed: UNKNOWN
+
+CameraEvent[2025/02/09 07:21:11.251933] camera_hal_dispatcher_impl.cc:238 Connected to cros-camera.
+
+CameraEvent[2025/02/09 07:21:11.251789] mojo_service_manager_observer.cc:54 CrosCameraService is registered.
+
+NetworkUser[2025/02/09 07:21:11.145262] network_device_handler_impl.cc:96 Device.SetProperty: WakeOnWiFiAllowed = false
+
+NetworkError[2025/02/09 07:21:11.144431] network_3gpp_handler.cc:213 Device has no or empty DBusObject Property: /device/cellular_device
+
+NetworkError[2025/02/09 07:21:11.143452] network_sms_handler.cc:525 Device has no or empty DBusObject Property: /device/cellular_device
+
+NetworkUser[2025/02/09 07:21:11.135319] network_device_handler_impl.cc:96 Device.SetProperty: Cellular.PolicyAllowRoaming = false
+
+NetworkEvent[2025/02/09 07:21:11.135311] network_state_handler.cc:2090 NOTIFY: DeviceListChanged. Size: 2
+
+NetworkEvent[2025/02/09 07:21:11.135300] network_state_handler.cc:1867 DeviceList: cellular_device, wlan0
+
+NetworkEvent[2025/02/09 07:21:11.135289] network_state_handler.cc:1536 Device Properties Received: /device/wlan0
+
+NetworkDebug[2025/02/09 07:21:11.135287] shill_property_handler.cc:636 GetProperties received for /device/wlan0
+
+NetworkEvent[2025/02/09 07:21:11.135198] network_state_handler.cc:1536 Device Properties Received: /device/cellular_device
+
+NetworkDebug[2025/02/09 07:21:11.135192] shill_property_handler.cc:636 GetProperties received for /device/cellular_device
+
+NetworkDebug[2025/02/09 07:21:11.135031] shill_property_handler.cc:398 ManagerPropertyChanged: TetheringCapabilities = { "downstream_technologies": [ "wifi" ], "upstream_technologies": [ "ethernet" ], "wifi_security_modes": [ "wpa2" ] }
+
+NetworkUser[2025/02/09 07:21:11.128080] network_device_handler_impl.cc:96 Device.SetProperty: Cellular.PolicyAllowRoaming = false
+
+NetworkEvent[2025/02/09 07:21:11.128077] network_state_handler.cc:2090 NOTIFY: DeviceListChanged. Size: 2
+
+NetworkEvent[2025/02/09 07:21:11.128071] shill_property_handler.cc:559 UninitializedTechnologies:[ ]
+
+NetworkDebug[2025/02/09 07:21:11.128069] shill_property_handler.cc:398 ManagerPropertyChanged: UninitializedTechnologies = [ ]
+
+NetworkEvent[2025/02/09 07:21:11.128056] shill_property_handler.cc:526 EnabledTechnologies:[ ]
+
+NetworkDebug[2025/02/09 07:21:11.128053] shill_property_handler.cc:398 ManagerPropertyChanged: EnabledTechnologies = [ ]
+
+NetworkUser[2025/02/09 07:21:11.127890] network_device_handler_impl.cc:96 Device.SetProperty: Cellular.PolicyAllowRoaming = false
+
+NetworkEvent[2025/02/09 07:21:11.127883] network_state_handler.cc:2090 NOTIFY: DeviceListChanged. Size: 2
+
+NetworkEvent[2025/02/09 07:21:11.127876] shill_property_handler.cc:505 AvailableTechnologies:[ "cellular", "wifi" ]
+
+NetworkDebug[2025/02/09 07:21:11.127872] shill_property_handler.cc:398 ManagerPropertyChanged: AvailableTechnologies = [ "cellular", "wifi" ]
+
+NetworkDebug[2025/02/09 07:21:11.127828] network_3gpp_handler.cc:163 GetDeviceProperties: /device/wlan0
+
+NetworkDebug[2025/02/09 07:21:11.127813] network_3gpp_handler.cc:163 GetDeviceProperties: /device/cellular_device
+
+NetworkDebug[2025/02/09 07:21:11.127796] network_sms_handler.cc:476 GetDeviceProperties: /device/wlan0
+
+NetworkDebug[2025/02/09 07:21:11.127778] network_sms_handler.cc:476 GetDeviceProperties: /device/cellular_device
+
+NetworkDebug[2025/02/09 07:21:11.127721] shill_property_handler.cc:284 Request Properties for: /device/wlan0
+
+NetworkDebug[2025/02/09 07:21:11.127676] shill_property_handler.cc:284 Request Properties for: /device/cellular_device
+
+NetworkDebug[2025/02/09 07:21:11.127672] shill_property_handler.cc:450 UpdateProperties: Device: 2
+
+NetworkEvent[2025/02/09 07:21:11.127658] network_state_handler.cc:1408 UpdateManagedList: Device: 2
+
+NetworkDebug[2025/02/09 07:21:11.127643] shill_property_handler.cc:398 ManagerPropertyChanged: Devices = [ "/device/cellular_device", "/device/wlan0" ]
+
+NetworkUser[2025/02/09 07:21:11.099925] network_device_handler_impl.cc:96 Device.SetProperty: Cellular.PolicyAllowRoaming = false
+
+NetworkEvent[2025/02/09 07:21:11.099912] network_state_handler.cc:2090 NOTIFY: DeviceListChanged. Size: 1
+
+NetworkEvent[2025/02/09 07:21:11.099894] shill_property_handler.cc:559 UninitializedTechnologies:[ "wifi" ]
+
+NetworkDebug[2025/02/09 07:21:11.099882] shill_property_handler.cc:398 ManagerPropertyChanged: UninitializedTechnologies = [ "wifi" ]
+
+USBError[2025/02/09 07:21:10.823957] usb_service_linux.cc:260 Got duplicate add event for path: /dev/bus/usb/001/002
+
+LoginEvent[2025/02/09 07:21:10.201972] auth_performer.cc:602 AuthSession started, user exists
+
+LoginEvent[2025/02/09 07:21:10.177160] auth_factor_editor.cc:676 Got list of configured auth factors
+
+LoginEvent[2025/02/09 07:21:09.692152] auth_factor_editor.cc:67 Listing AuthFactors
+
+DisplayEvent[2025/02/09 07:21:09.687423] display_manager.cc:976 ManagedDisplayInfo[3850489720471552] port_display_id=3850489720471552, edid_display_id=3978993118, native bounds=0,0 1366x768, size=1366x768, device-scale=1, display-zoom=1, overscan=x:0,0 y:0,0, rotation=0, touchscreen=no, panel_corners_radii=0.000000,0.000000,0.000000,0.000000, panel_orientation=Normal, detected=true, color_space={primaries:BT709, transfer:SRGB, matrix:RGB, range:FULL}
+
+DisplayEvent[2025/02/09 07:21:09.687376] display_manager.cc:969 Native displays updated. Unified desktop allowed: 0, Multi display mode: extended, count:1 currently active:1
+
+PowerUser[2025/02/09 07:21:09.687013] power_manager_client.cc:532 SetIsProjecting
+
+NetworkEvent[2025/02/09 07:21:09.600850] client_cert_resolver.cc:599 ClientCertResolver: Certificates Loaded.
+
+NetworkEvent[2025/02/09 07:21:09.600836] network_connection_handler_impl.cc:289 Certificates Loaded
+
+USBUser[2025/02/09 07:21:09.458452] usb_service_linux.cc:302 USB device added: path=/dev/bus/usb/001/002 vendor=5967 "Sonix Technology Co., Ltd.", product=9308 "Integrated Camera", serial="", guid=80d7a121-ec34-43fc-848f-9a5e2fc6355b
+
+NetworkEvent[2025/02/09 07:21:09.368787] auto_connect_handler.cc:236 AutoConnectInitiated [Policy Applied]
+
+CameraEvent[2025/02/09 07:21:09.311046] mojo_service_manager_observer.cc:54 VideoCaptureDeviceInfoMonitor is registered.
+
+NetworkEvent[2025/02/09 07:21:09.298115] auto_connect_handler.cc:437 ScanAndConnectToBestServices [Policy Applied]
+
+NetworkEvent[2025/02/09 07:21:09.297310] network_diagnostics.cc:53 NetworkDiagnostics::BindReceiver()
+
+LoginEvent[2025/02/09 07:21:09.294029] auth_performer.cc:137 Starting AuthSession
+
+NetworkEvent[2025/02/09 07:21:09.279914] network_metadata_store.cc:321 Network added with no active user, owner metadata not recorded.
+
+NetworkEvent[2025/02/09 07:21:09.279872] network_state_handler.cc:2081 NOTIFY: NetworkListChanged. Size: 2
+
+NetworkDebug[2025/02/09 07:21:09.279669] network_state_handler.cc:1346 GetEAPForEthernet: Not connected.
+
+NetworkEvent[2025/02/09 07:21:09.279578] network_state_handler.cc:2376 NOTIFY: NetworkPropertiesUpdated: ethernet_0
+
+NetworkEvent[2025/02/09 07:21:09.279562] network_state.cc:282 InitialPropertiesReceived: ethernet_0 State: idle Visible: 0
+
+NetworkEvent[2025/02/09 07:21:09.279494] network_state_handler.cc:1536 Network Properties Received: ethernet_0
+
+NetworkDebug[2025/02/09 07:21:09.279482] shill_property_handler.cc:636 GetProperties received for ethernet_0
+
+NetworkDebug[2025/02/09 07:21:09.202524] shill_property_handler.cc:284 Request Properties for: ethernet_0
+
+NetworkEvent[2025/02/09 07:21:09.202515] network_state_handler.cc:1247 RequestUpdate for: ethernet_0
+
+NetworkUser[2025/02/09 07:21:09.039568] network_configuration_handler.cc:84 Configure: ethernet.UIData=******
+
+NetworkUser[2025/02/09 07:21:09.039564] network_configuration_handler.cc:84 Configure: ethernet.Type="ethernet"
+
+NetworkUser[2025/02/09 07:21:09.039559] network_configuration_handler.cc:84 Configure: ethernet.StaticIPConfig={"NameServers":["8.8.4.4","8.8.8.8","0.0.0.0","0.0.0.0"]}
+
+NetworkUser[2025/02/09 07:21:09.039549] network_configuration_handler.cc:84 Configure: ethernet.ProxyConfig="{\"mode\":\"direct\"}"
+
+NetworkUser[2025/02/09 07:21:09.039544] network_configuration_handler.cc:84 Configure: ethernet.Profile="/profile/default"
+
+NetworkUser[2025/02/09 07:21:09.039539] network_configuration_handler.cc:84 Configure: ethernet.ONCSource="DevicePolicy"
+
+NetworkUser[2025/02/09 07:21:09.039534] network_configuration_handler.cc:84 Configure: ethernet.GUID="Ethernet-Ethernet"
+
+NetworkUser[2025/02/09 07:21:09.039504] network_configuration_handler.cc:377 CreateShillConfiguration: ethernet: ethernet_0
+
+NetworkEvent[2025/02/09 07:21:09.039199] policy_applicator.cc:360 Updating previously managed configuration with the updated policy Ethernet-Ethernet.
+
+BluetoothEvent[2025/02/09 07:21:09.001351] floss_manager_client.cc:576 Floss API version 0.7
+
+PowerDebug[2025/02/09 07:21:08.990608] power_manager_client.cc:849 Screen brightness changed to 100: cause 15
+
+NetworkError[2025/02/09 07:21:08.792208] network_3gpp_handler.cc:213 Device has no or empty DBusObject Property: /device/cellular_device
+
+NetworkError[2025/02/09 07:21:08.791185] network_sms_handler.cc:525 Device has no or empty DBusObject Property: /device/cellular_device
+
+NetworkEvent[2025/02/09 07:21:08.782566] network_state_handler.cc:2081 NOTIFY: NetworkListChanged. Size: 2
+
+NetworkEvent[2025/02/09 07:21:08.782519] network_state_handler.cc:2376 NOTIFY: NetworkPropertiesUpdated: etherneteap_1
+
+NetworkEvent[2025/02/09 07:21:08.782477] network_state.cc:282 InitialPropertiesReceived: etherneteap_1 State: idle Visible: 0
+
+NetworkEvent[2025/02/09 07:21:08.782438] network_state_handler.cc:1536 Network Properties Received: service_1
+
+NetworkDebug[2025/02/09 07:21:08.782427] shill_property_handler.cc:636 GetProperties received for service_1
+
+NetworkDebug[2025/02/09 07:21:08.781935] network_state_handler.cc:1346 GetEAPForEthernet: Not connected.
+
+NetworkEvent[2025/02/09 07:21:08.781817] network_state_handler.cc:2376 NOTIFY: NetworkPropertiesUpdated: ethernet_0
+
+NetworkEvent[2025/02/09 07:21:08.781800] network_state.cc:282 InitialPropertiesReceived: ethernet_0 State: idle Visible: 0
+
+NetworkEvent[2025/02/09 07:21:08.781719] network_state_handler.cc:1536 Network Properties Received: service_0
+
+NetworkDebug[2025/02/09 07:21:08.781706] shill_property_handler.cc:636 GetProperties received for service_0
+
+NetworkUser[2025/02/09 07:21:08.780977] network_device_handler_impl.cc:96 Device.SetProperty: Cellular.PolicyAllowRoaming = false
+
+NetworkEvent[2025/02/09 07:21:08.780962] network_state_handler.cc:2090 NOTIFY: DeviceListChanged. Size: 1
+
+NetworkEvent[2025/02/09 07:21:08.780942] network_state_handler.cc:1867 DeviceList: cellular_device
+
+NetworkEvent[2025/02/09 07:21:08.780852] network_state_handler.cc:1536 Device Properties Received: /device/cellular_device
+
+NetworkDebug[2025/02/09 07:21:08.780841] shill_property_handler.cc:636 GetProperties received for /device/cellular_device
+
+BluetoothEvent[2025/02/09 07:21:08.774308] device_cache.cc:26 GetPairedDevices() called when Bluetooth is not enabled nor enabling, returning an empty list.
+
+PowerUser[2025/02/09 07:21:08.763868] power_manager_client.cc:407 RequestStatusUpdate
+
+CameraEvent[2025/02/09 07:21:08.763836] mojo_service_manager_observer.cc:82 VideoCaptureDeviceInfoMonitor has not been registered during query.
+
+CameraEvent[2025/02/09 07:21:08.763820] mojo_service_manager_observer.cc:82 CrosCameraService has not been registered during query.
+
+NetworkDebug[2025/02/09 07:21:08.692590] network_device_handler_impl.cc:337 No cellular device available. Roaming is only supported by cellular devices.
+
+NetworkEvent[2025/02/09 07:21:08.692583] network_state_handler.cc:2090 NOTIFY: DeviceListChanged. Size: 1
+
+NetworkDebug[2025/02/09 07:21:08.692149] network_device_handler_impl.cc:337 No cellular device available. Roaming is only supported by cellular devices.
+
+NetworkEvent[2025/02/09 07:21:08.692139] network_state_handler.cc:2090 NOTIFY: DeviceListChanged. Size: 1
+
+PowerUser[2025/02/09 07:21:08.688830] power_manager_client.cc:1517 Got ThermalEvent signal: thermal_state=1 timestamp=4221814
+
+BluetoothDebug[2025/02/09 07:21:08.688148] in_process_instance.cc:95 Binding to CrosBluetoothConfig
+
+NetworkDebug[2025/02/09 07:21:08.687678] network_3gpp_handler.cc:163 GetDeviceProperties: /device/cellular_device
+
+NetworkDebug[2025/02/09 07:21:08.687487] network_sms_handler.cc:476 GetDeviceProperties: /device/cellular_device
+
+NetworkDebug[2025/02/09 07:21:08.687097] shill_property_handler.cc:398 ManagerPropertyChanged: WiFiInterfacePriorities = [ ]
+
+NetworkDebug[2025/02/09 07:21:08.687095] shill_property_handler.cc:398 ManagerPropertyChanged: WiFi.ScanAllowRoam = true
+
+NetworkDebug[2025/02/09 07:21:08.687091] shill_property_handler.cc:398 ManagerPropertyChanged: WiFi.RequestScanType = "default"
+
+NetworkDebug[2025/02/09 07:21:08.687089] shill_property_handler.cc:398 ManagerPropertyChanged: WiFi.GlobalFTEnabled = false
+
+NetworkDebug[2025/02/09 07:21:08.687087] shill_property_handler.cc:398 ManagerPropertyChanged: WakeOnLanEnabled = true
+
+NetworkDebug[2025/02/09 07:21:08.687085] shill_property_handler.cc:398 ManagerPropertyChanged: UseLegacyDHCPCD = true
+
+NetworkEvent[2025/02/09 07:21:08.687082] shill_property_handler.cc:559 UninitializedTechnologies:[ ]
+
+NetworkDebug[2025/02/09 07:21:08.687079] shill_property_handler.cc:398 ManagerPropertyChanged: UninitializedTechnologies = [ ]
+
+NetworkDebug[2025/02/09 07:21:08.687077] shill_property_handler.cc:398 ManagerPropertyChanged: TetheringStatus = { "idle_reason": "initial_state", "state": "idle" }
+
+NetworkDebug[2025/02/09 07:21:08.687072] shill_property_handler.cc:398 ManagerPropertyChanged: TetheringConfig = { "auto_disable": true, "band": "all-bands", "passphrase": "E74D3552", "randomize_mac_address": true, "security": "wpa2", "ssid": "6368726F6D654F532D38303237", "upstream_technology": "cellular" }
+
+NetworkDebug[2025/02/09 07:21:08.687066] shill_property_handler.cc:398 ManagerPropertyChanged: TetheringCapabilities = { "downstream_technologies": [ ], "upstream_technologies": [ "ethernet" ] }
+
+NetworkDebug[2025/02/09 07:21:08.687059] shill_property_handler.cc:398 ManagerPropertyChanged: SupportedVPNTypes = "ikev2,l2tpipsec,openvpn,thirdpartyvpn,arcvpn,wireguard"
+
+NetworkDebug[2025/02/09 07:21:08.687055] shill_property_handler.cc:398 ManagerPropertyChanged: Services = [ ]
+
+NetworkDebug[2025/02/09 07:21:08.687029] shill_property_handler.cc:284 Request Properties for: service_1
+
+NetworkDebug[2025/02/09 07:21:08.687000] shill_property_handler.cc:284 Request Properties for: service_0
+
+NetworkDebug[2025/02/09 07:21:08.686996] shill_property_handler.cc:450 UpdateProperties: Network: 2
+
+NetworkEvent[2025/02/09 07:21:08.686989] network_state_handler.cc:1408 UpdateManagedList: Network: 2
+
+NetworkDebug[2025/02/09 07:21:08.686986] shill_property_handler.cc:398 ManagerPropertyChanged: ServiceCompleteList = [ "/service/0", "/service/1" ]
+
+NetworkDebug[2025/02/09 07:21:08.686945] network_device_handler_impl.cc:337 No cellular device available. Roaming is only supported by cellular devices.
+
+NetworkEvent[2025/02/09 07:21:08.686941] network_state_handler.cc:2090 NOTIFY: DeviceListChanged. Size: 1
+
+NetworkDebug[2025/02/09 07:21:08.686931] shill_property_handler.cc:398 ManagerPropertyChanged: ProhibitedTechnologies = "cellular,vpn"
+
+NetworkEvent[2025/02/09 07:21:08.686928] network_state_handler.cc:1506 ProfileListChanged. Re-Requesting Network Properties
+
+NetworkDebug[2025/02/09 07:21:08.686926] shill_property_handler.cc:398 ManagerPropertyChanged: Profiles = [ "/profile/default" ]
+
+NetworkDebug[2025/02/09 07:21:08.686923] shill_property_handler.cc:398 ManagerPropertyChanged: PortalHttpsUrl = "https://www.google.com/generate_204"
+
+NetworkDebug[2025/02/09 07:21:08.686920] shill_property_handler.cc:398 ManagerPropertyChanged: PortalHttpUrl = "http://connectivitycheck.gstatic.com/generate_204"
+
+NetworkDebug[2025/02/09 07:21:08.686916] shill_property_handler.cc:398 ManagerPropertyChanged: PortalFallbackHttpsUrls = "https://accounts.google.com/generate_204,https://clients3.google.com/generate_204"
+
+NetworkDebug[2025/02/09 07:21:08.686912] shill_property_handler.cc:398 ManagerPropertyChanged: PortalFallbackHttpUrls = "http://play.googleapis.com/generate_204,http://www.gstatic.com/generate_204,http://safebrowsing.google.com/generate_204,http://www.googleapis.com/generate_204"
+
+NetworkDebug[2025/02/09 07:21:08.686906] shill_property_handler.cc:398 ManagerPropertyChanged: P2PGroupInfos = [ ]
+
+NetworkDebug[2025/02/09 07:21:08.686899] shill_property_handler.cc:398 ManagerPropertyChanged: P2PClientInfos = [ ]
+
+NetworkDebug[2025/02/09 07:21:08.686896] shill_property_handler.cc:398 ManagerPropertyChanged: P2PCapabilities = { "P2PSupported": false }
+
+NetworkDebug[2025/02/09 07:21:08.686877] shill_property_handler.cc:398 ManagerPropertyChanged: P2PAllowed = true
+
+NetworkDebug[2025/02/09 07:21:08.686875] shill_property_handler.cc:398 ManagerPropertyChanged: NoAutoConnectTechnologies = ""
+
+NetworkDebug[2025/02/09 07:21:08.686873] shill_property_handler.cc:398 ManagerPropertyChanged: LOHSConfig = [ ]
+
+NetworkDebug[2025/02/09 07:21:08.686870] shill_property_handler.cc:398 ManagerPropertyChanged: ExperimentalTetheringFunctionality = false
+
+NetworkEvent[2025/02/09 07:21:08.686867] shill_property_handler.cc:526 EnabledTechnologies:[ ]
+
+NetworkDebug[2025/02/09 07:21:08.686865] shill_property_handler.cc:398 ManagerPropertyChanged: EnabledTechnologies = [ ]
+
+NetworkDebug[2025/02/09 07:21:08.686863] shill_property_handler.cc:398 ManagerPropertyChanged: EnableRFC8925 = true
+
+NetworkDebug[2025/02/09 07:21:08.686860] shill_property_handler.cc:398 ManagerPropertyChanged: EnableDHCPQoS = false
+
+NetworkDebug[2025/02/09 07:21:08.686858] shill_property_handler.cc:398 ManagerPropertyChanged: DisconnectWiFiOnEthernet = "off"
+
+NetworkDebug[2025/02/09 07:21:08.686855] shill_property_handler.cc:398 ManagerPropertyChanged: DisableWiFiVHT = false
+
+NetworkDebug[2025/02/09 07:21:08.686796] shill_property_handler.cc:284 Request Properties for: /device/cellular_device
+
+NetworkDebug[2025/02/09 07:21:08.686793] shill_property_handler.cc:450 UpdateProperties: Device: 1
+
+NetworkEvent[2025/02/09 07:21:08.686786] network_state_handler.cc:1408 UpdateManagedList: Device: 1
+
+NetworkDebug[2025/02/09 07:21:08.686780] shill_property_handler.cc:398 ManagerPropertyChanged: Devices = [ "/device/cellular_device" ]
+
+NetworkDebug[2025/02/09 07:21:08.686776] shill_property_handler.cc:398 ManagerPropertyChanged: DefaultTechnology = ""
+
+NetworkEvent[2025/02/09 07:21:08.686774] shill_property_handler.cc:393 Manager.DefaultService = /
+
+NetworkDebug[2025/02/09 07:21:08.686770] shill_property_handler.cc:398 ManagerPropertyChanged: DOHIncludedDomains = [ ]
+
+NetworkDebug[2025/02/09 07:21:08.686768] shill_property_handler.cc:398 ManagerPropertyChanged: DOHExcludedDomains = [ ]
+
+NetworkDebug[2025/02/09 07:21:08.686766] shill_property_handler.cc:398 ManagerPropertyChanged: DNSProxyDOHProviders = [ ]
+
+NetworkEvent[2025/02/09 07:21:08.686762] network_state_handler.cc:1826 HostnameChanged
+
+NetworkDebug[2025/02/09 07:21:08.686760] shill_property_handler.cc:398 ManagerPropertyChanged: DHCPProperty.Hostname = "cosehatwhatSDDPYX0C8XX3"
+
+NetworkDebug[2025/02/09 07:21:08.686757] shill_property_handler.cc:398 ManagerPropertyChanged: ConnectionState = "idle"
+
+NetworkDebug[2025/02/09 07:21:08.686754] shill_property_handler.cc:398 ManagerPropertyChanged: ConnectedTechnologies = [ ]
+
+NetworkDebug[2025/02/09 07:21:08.686751] shill_property_handler.cc:398 ManagerPropertyChanged: ClaimedDevices = [ ]
+
+NetworkDebug[2025/02/09 07:21:08.686746] shill_property_handler.cc:398 ManagerPropertyChanged: CheckPortalList = "ethernet,wifi,cellular"
+
+NetworkDebug[2025/02/09 07:21:08.686655] network_device_handler_impl.cc:337 No cellular device available. Roaming is only supported by cellular devices.
+
+NetworkEvent[2025/02/09 07:21:08.686650] network_state_handler.cc:2090 NOTIFY: DeviceListChanged. Size: 0
+
+NetworkEvent[2025/02/09 07:21:08.686640] shill_property_handler.cc:505 AvailableTechnologies:[ "cellular" ]
+
+NetworkDebug[2025/02/09 07:21:08.686636] shill_property_handler.cc:398 ManagerPropertyChanged: AvailableTechnologies = [ "cellular" ]
+
+NetworkDebug[2025/02/09 07:21:08.686632] shill_property_handler.cc:398 ManagerPropertyChanged: ArpGateway = true
+
+NetworkDebug[2025/02/09 07:21:08.686629] shill_property_handler.cc:398 ManagerPropertyChanged: AlwaysOnVpnPackage = ""
+
+NetworkDebug[2025/02/09 07:21:08.686626] shill_property_handler.cc:398 ManagerPropertyChanged: ActiveProfile = "/profile/default"
+
+NetworkEvent[2025/02/09 07:21:08.686618] shill_property_handler.cc:364 ManagerPropertiesCallback: Success
+
+PowerUser[2025/02/09 07:21:08.686215] power_manager_client.cc:1014 Got GetThermalState response: thermal_state=0 timestamp=4090742
+
+PowerEvent[2025/02/09 07:21:08.685858] power_manager_client.cc:1316 Registered dark suspend delay 71598082
+
+PowerEvent[2025/02/09 07:21:08.685840] power_manager_client.cc:1321 Registered suspend delay 71565316
+
+PowerDebug[2025/02/09 07:21:08.685536] power_manager_client.cc:849 Screen brightness changed to 63: cause 5
+
+PowerUser[2025/02/09 07:21:08.685394] power_manager_client.cc:419 RequestAllPeripheralBatteryUpdate
+
+PowerDebug[2025/02/09 07:21:08.682372] power_manager_client.cc:988 Received power supply poll signal.
+
+NetworkDebug[2025/02/09 07:21:08.672939] in_process_instance.cc:32 Binding to CrosHotspotConfig
+
+BluetoothDebug[2025/02/09 07:21:08.672104] in_process_instance.cc:95 Binding to CrosBluetoothConfig
+
+BluetoothEvent[2025/02/09 07:21:08.669042] floss_dbus_manager.cc:385 Floss Manager is available: 1
+
+BluetoothEvent[2025/02/09 07:21:08.668951] device_name_manager_impl.cc:216 Finished migration of Bluetooth nickname prefs
+
+BluetoothEvent[2025/02/09 07:21:08.668829] device_name_manager_impl.cc:158 Starting migration of Bluetooth nickname prefs
+
+BluetoothEvent[2025/02/09 07:21:08.668817] bluetooth_power_controller_impl.cc:172 primary_profile_prefs_ is null, not initializing
+
+BluetoothEvent[2025/02/09 07:21:08.668815] bluetooth_power_controller_impl.cc:168 Initializing primary user pref service
+
+BluetoothEvent[2025/02/09 07:21:08.668813] bluetooth_power_controller_impl.cc:237 Adapter is currently unavailable, setting pending_adapter_enabled_state_ to 1
+
+BluetoothEvent[2025/02/09 07:21:08.668810] bluetooth_power_controller_impl.cc:229 Setting adapter state to enabled
+
+BluetoothEvent[2025/02/09 07:21:08.668808] bluetooth_power_controller_impl.cc:161 Applying local state pref Bluetooth power: 1
+
+BluetoothEvent[2025/02/09 07:21:08.668782] bluetooth_power_controller_impl.cc:125 Initializing local state pref service
+
+BluetoothEvent[2025/02/09 07:21:08.668780] cros_bluetooth_config.cc:74 Setting CrosBluetoothConfig services' pref services
+
+BluetoothEvent[2025/02/09 07:21:08.668776] cros_bluetooth_config.cc:58 Setting fast pair delegate's device name manager
+
+BluetoothEvent[2025/02/09 07:21:08.668761] device_cache.cc:26 GetPairedDevices() called when Bluetooth is not enabled nor enabling, returning an empty list.
+
+BluetoothEvent[2025/02/09 07:21:08.668741] in_process_instance.cc:43 Initializing CrosBluetoothConfig
+
+BluetoothEvent[2025/02/09 07:21:08.668708] bluetooth_adapter_floss.cc:234 Floss Adapter Initialized
+
+PowerUser[2025/02/09 07:21:08.668230] power_manager_client.cc:407 RequestStatusUpdate
+
+NetworkEvent[2025/02/09 07:21:08.659759] cros_network_config.cc:2415 CrosNetworkConfig::BindReceiver()
+
+PowerUser[2025/02/09 07:21:08.659442] power_manager_client.cc:407 RequestStatusUpdate
+
+PowerUser[2025/02/09 07:21:08.652303] power_manager_client.cc:518 SetPolicy
+
+NetworkEvent[2025/02/09 07:21:08.632462] cros_network_config.cc:2415 CrosNetworkConfig::BindReceiver()
+
+NetworkEvent[2025/02/09 07:21:08.632213] managed_cellular_pref_handler.cc:230 Finished migration of existing ICCID and SM-DP+ pairs
+
+NetworkEvent[2025/02/09 07:21:08.632205] managed_cellular_pref_handler.cc:209 Starting migration of existing ICCID and SM-DP+ pairs
+
+NetworkEvent[2025/02/09 07:21:08.632155] network_portal_detector.cc:56 SetNetworkPortalDetector
+
+BluetoothEvent[2025/02/09 07:21:08.604324] bluetooth_api.cc:82 BluetoothAPI: 0x4400f75200
+
+NetworkDebug[2025/02/09 07:21:08.586720] network_device_handler_impl.cc:337 No cellular device available. Roaming is only supported by cellular devices.
+
+NetworkEvent[2025/02/09 07:21:08.586716] network_state_handler.cc:2090 NOTIFY: DeviceListChanged. Size: 0
+
+NetworkDebug[2025/02/09 07:21:08.586627] network_device_handler_impl.cc:337 No cellular device available. Roaming is only supported by cellular devices.
+
+NetworkEvent[2025/02/09 07:21:08.580899] cros_network_config.cc:2415 CrosNetworkConfig::BindReceiver()
+
+BluetoothEvent[2025/02/09 07:21:08.580350] in_process_instance.cc:59 Beginning CrosBluetoothConfig initialization
+
+NetworkEvent[2025/02/09 07:21:08.566944] cros_network_config.cc:2415 CrosNetworkConfig::BindReceiver()
+
+NetworkDebug[2025/02/09 07:21:08.490664] in_process_instance.cc:32 Binding to CrosHotspotConfig
+
+NetworkEvent[2025/02/09 07:21:08.443763] cros_network_config.cc:2415 CrosNetworkConfig::BindReceiver()
+
+NetworkDebug[2025/02/09 07:21:08.443478] in_process_instance.cc:32 Binding to CrosHotspotConfig
+
+NetworkEvent[2025/02/09 07:21:08.443324] cros_network_config.cc:2415 CrosNetworkConfig::BindReceiver()
+
+NetworkDebug[2025/02/09 07:21:08.443202] auto_connect_notifier.cc:52 NetworkStateHandler::AddObserver: 0x0x4400c4b7f8
+
+NetworkEvent[2025/02/09 07:21:08.442275] cros_network_config.cc:2415 CrosNetworkConfig::BindReceiver()
+
+NetworkDebug[2025/02/09 07:21:08.436370] fast_pair_repository_impl.cc:99 NetworkStateHandler::AddObserver: 0x0x4400126f08
+
+DisplayEvent[2025/02/09 07:21:08.435595] display_manager.cc:1345 Display[3850489720471552] bounds=[0,0 1517x852], workarea=[0,0 1517x852], scale=0.900461, rotation=0, panel_rotation=0 internal detected
+
+DisplayEvent[2025/02/09 07:21:08.435561] display_manager.cc:1339 Displays update applied. Unified desktop allowed: 0, Multi display mode: extended, count:1
+
+DisplayEvent[2025/02/09 07:21:08.435406] display_manager.cc:976 ManagedDisplayInfo[3850489720471552] port_display_id=3850489720471552, edid_display_id=3978993118, native bounds=0,0 1366x768, size=1366x768, device-scale=1, display-zoom=1, overscan=x:0,0 y:0,0, rotation=0, touchscreen=no, panel_corners_radii=0.000000,0.000000,0.000000,0.000000, panel_orientation=Normal, detected=true, color_space={primaries:BT709, transfer:SRGB, matrix:RGB, range:FULL}
+
+DisplayEvent[2025/02/09 07:21:08.435326] display_manager.cc:969 Native displays updated. Unified desktop allowed: 0, Multi display mode: extended, count:1 currently active:0
+
+PowerUser[2025/02/09 07:21:08.434835] power_manager_client.cc:532 SetIsProjecting
+
+PowerUser[2025/02/09 07:21:08.431155] power_manager_client.cc:407 RequestStatusUpdate
+
+BluetoothEvent[2025/02/09 07:21:08.414511] bluetooth_adapter_floss.cc:119 BluetoothAdapterFloss::Initialize
+
+NetworkDebug[2025/02/09 07:21:08.337924] network_device_handler_impl.cc:430 Empty USB Ethernet MAC address source.
+
+NetworkDebug[2025/02/09 07:21:08.337922] network_device_handler_impl.cc:337 No cellular device available. Roaming is only supported by cellular devices.
+
+NetworkEvent[2025/02/09 07:21:08.337919] network_state_handler.cc:2090 NOTIFY: DeviceListChanged. Size: 0
+
+NetworkDebug[2025/02/09 07:21:08.337862] network_device_handler_impl.cc:430 Empty USB Ethernet MAC address source.
+
+NetworkDebug[2025/02/09 07:21:08.337846] network_device_handler_impl.cc:337 No cellular device available. Roaming is only supported by cellular devices.
+
+NetworkEvent[2025/02/09 07:21:08.337830] network_state_handler.cc:2090 NOTIFY: DeviceListChanged. Size: 0
+
+NetworkEvent[2025/02/09 07:21:08.337582] shill_property_handler.cc:122 UpdateManagerProperties
